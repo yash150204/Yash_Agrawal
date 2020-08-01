@@ -23,9 +23,11 @@ tags:
 #### One dad said, “The reason I’m not rich is because I have you kids.” The other said, “The reason I must be rich is because I have you kids.”
 #### One encouraged talking about money and business at the dinner table, while the other forbade the subject of money to be discussed over a meal.
 #### One said, “When it comes to money, play it safe. Don’t take risks.” The other said, “Learn to manage risk.”
-#### One believed, “Our home is our largest investment and our greatest asset.” The other believed, “My house is a liability, and if your house is your largest investment, you’re in trouble.”
-
-Excerpt From: Robert T kiyosaki. “Rich Dad Poor Dad”. Apple Books
+#### One believed, “Our home is our largest investment and our greatest asset.” The other believed, “My house is a liability, and if your house is your largest investment, you’re in trouble.
+### There is also this mindset shift regarding the poor and being broke: "Broke is temporary. Poor is eternal"
+### "I don't work for money! Money works for me!"
+### “Money is one form of power. But what is more powerful is financial education. Money comes and goes, but if you have the education about how money works, you gain power over it and can begin building wealth. ”
+#### This quote is much like the standard regressive Indian bullshit we here, and frankly what I saw in the Shah family: the display of wealth, and the underlining matter of fact that wealth = power.
 ## **Lesson 1: The rich don't work for money**
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
