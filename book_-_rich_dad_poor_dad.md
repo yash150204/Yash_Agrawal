@@ -29,10 +29,8 @@ tags:
 ### “Money is one form of power. But what is more powerful is financial education. Money comes and goes, but if you have the education about how money works, you gain power over it and can begin building wealth. ”
 #### This quote is much like the standard regressive Indian bullshit we here, and frankly what I saw in the Shah family: the display of wealth, and the underlining matter of fact that wealth = power.
 ## **Lesson 1: The rich don't work for money**
-## The idea that "It's all about the climb", is also bought up here. In terms of money: “You’re only poor if you give up. The most important thing is that you did something. Most people only talk and dream of getting rich. You’ve done something.”
-## This is just s #fun comment: “School is beginning, or it’s over in 10 seconds”
-
-Excerpt From: Robert T kiyosaki. “Rich Dad Poor Dad”. Apple Books. 
+### The idea that "It's all about the climb", is also bought up here. In terms of money: “You’re only poor if you give up. The most important thing is that you did something. Most people only talk and dream of getting rich. You’ve done something.”
+### This is just s #fun comment: “School is beginning, or it’s over in 10 seconds”
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
 ## Lesson 4: The history of taxes and the power of corperations
