@@ -37,6 +37,7 @@ tags:
 #### Reason for (2)
 ##### ((5f24d1d9-3328-4301-bf75-bec1506ea697))
 ### our tagline + reason for each
+## Before we move on the pricing, do have a look at our consolidated SWOT analysis.
 ## **Timeline + pricing**
 ### get from notion page
 ### the introduction of CrashTalks + purpose
