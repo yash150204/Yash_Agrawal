@@ -56,6 +56,8 @@ tags:
 ## **Marketing + Future?**
 ### Marketing will be done via social media platforms (Instagram, Facebook, Twitter) and via a podcast we will be launching soon titles CrashTalks
 ### As suggested by our philosophy, "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future, while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.
-## **What do we want form you?**
+## **Why should u invest in us + What do we want form you?**
+### Impact on society
+#### 
 ### As. you must you have realised by now, our business in its entirety is optimised and enabled by technology. For all, the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
 s
