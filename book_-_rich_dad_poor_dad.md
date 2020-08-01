@@ -37,6 +37,12 @@ tags:
 #### “What?” I said indignantly. “He’s been waiting for me to get fed up?”
 #### “Sort of,” Mike said. “Dad’s kind of different. He doesn’t teach like your dad. Your mom and dad lecture a lot. My dad is quiet and a man of few words. You just wait till this Saturday. I’ll tell him you’re ready.”
 ### “But that is not how life teaches you, and I would say that life is the best teacher of all. Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, ‘Wake up. There’s something I want you to learn.’"
+### **Lesson 1: “The poor and the middle class work for money. The rich have money work for them.” **
+### The idea of fear, money and passion
+#### You see, true learning takes energy, passion, and a burning desire. Anger is a big part of that formula, for passion is anger and love combined.
+#### When it comes to money, most people want to play it safe and feel secure. So passion does not direct them. Fear does.
+### The lack of financial education in school leads to the emotion of fear in the context of money. This fear comes in the form of “ the fear of not paying their bills, the fear of being fired, the fear of not having enough money, and the fear of starting over”, and that is why people do not want to know how to make money, because of the flawed classic notion that money is given in exchange of time and effort.
+### This is also the idea of #PassiveIncome and what [[Ali Abdaal]], YouTuber's and video content creators that you make something once, and then they can continuously make money as you sleep.
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
 ## Lesson 4: The history of taxes and the power of corperations
