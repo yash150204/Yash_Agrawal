@@ -8,21 +8,25 @@ tags:
 ### A pitch studio is a concept that we created and it’s very successful for us, it is basically a simple way for entrepreneurs to pitch their ideas to us without any pressure. The reason why is because all great ideas should be pursued, and money should not be a problem. We bet that we can build a great relationship with you thus, increase our value over time.
 ### We will evaluate the idea and yourself based on three simple things: feasibility and potential for the idea and your eagerness to start your project and become an entrepreneur. Once done we will propose either our Full Assistance plan, our Startup Assistance plan or our Partial Assistance plan. Full Assistance is our best plan and is 5 to 6 times less expensive than market cost, Startup Assistance is 3 to 4 times less expensive than market cost, and Partial Assistance is twice less expensive than market cost.
 ### For the idea, feasibility means that your project can be enabled by technology or optimized by technology, potential means that your project must be scalable and become big. When it comes to you, we want to help people who really want to start an entrepreneurial project thus once we make you an offer today you will need to accept or decline it today. We have options to help you if you’re on a really tight budget such as financing options or a simple one-time fee product to start that we call an MVP-A.
-## **Who are we?**
-### We are tegroup of students
-### why starting?
+## ~~**Who are we?**~~
+### We are a group of students studying in an international school and have been experimenting with several business ideas since the best part of one year.
+### Why starting?
    :PROPERTIES:
    :CUSTOM_ID: 5f24d1d9-3328-4301-bf75-bec1506ea697
    :END:
-#### 1. online tutoring experience
-#### 2. way to earn a quick buck somewhere
-#### 3. we have always wanted to open a business in one form or the other
+#### We have experimented with several failed idea's, mostly lavish concepts on paper, but we have for the first come up with a concept that (1) helps the society and (2) is actually possible in reality along with a pretty decent profit margin.
+#### One of our co-founders Yash Agrawal had signed up for an online tutoring service, and there he realised the value individuals can gets from high quality peer-peer learning + having a support network that is comprised of students in themselfs. (Expanded on the ((5f24d242-8660-40e0-96c0-466b23e10fdb)) section)
+#### As I said, we had been looking for a way into the startup and entrepreneurial world since the past year, and we wanted to make a monetisable service, fulfilling our own two personal aspirations (1) help the society and (2) build something with little investment and maximum profit. **In our own personal circles we wanted to break the notion that social business, build on the noble foundation of helping society cannot be profitable**
 ## **What do we offer**
-### short course
+### The basic idea of CrashBoards International is to provide short-duration intense crash courses powered by students and ex-students themselves. What are the benefits? (1) Actual students have greater connect and knowledge of the course and subject they are teaching as they are the ones who have given the exam. No teacher can match that level of intimacy that a student experiences with an exam. (2) 
 ### duration?
 #### varied. depends on tutor
 #### More then 16 days, less then 22says, max 30 days
 ## **Whom do we hire?**
+   :PROPERTIES:
+   :CUSTOM_ID: 5f24d242-8660-40e0-96c0-466b23e10fdb
+   :END:
+
 ### all the types
 ### mainly unprofessional, lol ^^_Find a new word_^^
 ### IB
