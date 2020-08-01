@@ -9,16 +9,14 @@ tags:
 ## #NIBBLE
 ## **Introduction**
 ### "The love of money is the root of all evil" and "The lack of money is the root of all evil". This also goes to show that whatever you do, money is not the solution, but in all its entirety is "the root of all evil".
-### “One of the reasons the rich get richer, the poor get poorer, and the middle class struggles in debt is that the subject of money is taught at home, not in school.”
-#### #EVERGREEN
+### “One of the reasons the rich get richer, the poor get poorer, and the middle-class struggles in debt is that the subject of money is taught at home, not in school.” #EVERGREEN
 #### This is something that I have been hearing for ages. This is #life and something that I really want to address. Why don't schools teach money?
 ### "How will a nation survive if teaching children about money continues to be left to parents—most of whom will be, or already are, poor?”
 ### There should be a change in mindset from "I cant afford it" (a sign of mental illness) to "how can I afford it".
 #### As [[Robert T. Kiyosaki]] suggests, that we should ask questions that mentally challenge us, questions that actually put our brains on  "mental exercise" and stuff that puts your brain to work.
 #### As our friend [[Tim Ferris]] says in the [[Book - The 4-Hour Workweek]], we need to challenge the conventional, and not settle for the conventional.
 ### "Proper physical exercise increases your chances for health, and proper mental exercise increases your chances for wealth."
-### The ultimate #LifeAdvice
-#### #EVERGREEN
+### The ultimate #LifeAdvice #EVERGREEN
 #### One dad recommended, “Study hard so you can find a good company to work for.” The other recommended, “Study hard so you can find a good company to buy.”
 #### One dad said, “The reason I’m not rich is because I have you kids.” The other said, “The reason I must be rich is because I have you kids.”
 #### One encouraged talking about money and business at the dinner table, while the other forbade the subject of money to be discussed over a meal.
