@@ -31,6 +31,8 @@ tags:
 ## **Lesson 1: The rich don't work for money**
 ### The idea that "It's all about the climb", is also bought up here. In terms of money: “You’re only poor if you give up. The most important thing is that you did something. Most people only talk and dream of getting rich. You’ve done something.”
 ### This is just s #fun comment: “School is beginning, or it’s over in 10 seconds”
+### The moment you think that you are done and that you want to quit life has a learning for you. Life is waiting for you to fail at that moment. Life is waiting for you to give up. But, at that same time, life is also willing to give you an opportunity to learn. But if you keep being angry over the fact that you have failed, the learning that life is trying to give you will suddenly be shrouded in fog and will become impossible to see. #LifeAdvice
+#### 
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
 ## Lesson 4: The history of taxes and the power of corperations
