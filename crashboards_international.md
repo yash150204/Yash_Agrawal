@@ -28,7 +28,6 @@ tags:
 ### CrashBoards’ business structure offers this paid service for SG$20 - 40 per day, per student.
 #### For comparison, our daily cost is half. tehcost of the hourly cost of proffesional tutors
 ### Our sessions would occur virtually during the months of June and December, aimed at students giving their board exams in the next 5-6 months.
-### With a 10% commission from tutors, 90% of the revenue will be given to our tutors as 'reward' for their services.
 ### The IGCSE branch of CrashBoards is inventively named CrashIGCSE, and the IBDP branch of CrashBoards will be CrashBacculureate.
 #### If you are familiar with the IBDP, there are several facets of the diploma, such as the individual assessment and extended essay which we plan to offer aid on.
 ### We have designed our business model to facilitate the online collaboration of tutors and students who require a quick revision or guidance to boost their scores in a short span of time during their summer or winter breaks.
@@ -42,17 +41,21 @@ tags:
 ### To minimise the cost paid by our students, keep our doors open to all, and to keep CrashBoards International pocket friendly, we need to manage our workforce, i.e, our tutors.
 ### Smartly choosing our groups of tutors, we manage to keep our costs very low.
 #### In general, we are mainly to target a group of individuals who have passed through the course and are **not** pursuing professional teaching.
-### We intend to provide job opportunities for senior high school, undergraduate and postgraduate students who will be working part time in our organisation
+#### Eg: Senior high school, undergraduate and postgraduate students who will be working part-time in our organisation
 ## Before we move on the pricing, do have a look at our consolidated SWOT analysis.
 ## **Timeline + pricing**
 ### Each branch of CrashBoards International will have its own website. The reason being to disperse the various options we are giving the consumer.
-### The websites mark the commence of this venture and we are planning to do so at the start of October. Student and tutor registrations also begin around that time. The actual tutoring session for December will commence on 10th December 2020.
+### Timeline
+#### The websites mark the commence of this venture and we are planning to do so at the start of October. Student and tutor registrations also begin around that time. The actual tutoring session for December will commence on 10th December 2020.
+#### Our USP in terms of financial support is that, we do not need any initial investment of money. Instead. we need a lot of investment in terms of manpower and time.
+### Pricing + Revenue
+#### With a 10% commission from tutors, 90% of the revenue will be given to our tutors as 'reward' for their services and give them some (1) financial incentive and (2) financial independence.
+#### Our expected baseline revenue is SGD5,000 ++ in our first year of operations.
+#### The broad cost for registering with us ranges from SGD480 to around SGD760 per student at the bare minimum. At the baseline, tutors with us can make an income of SGD 432 to SGD684 at the bare minimum
 ### More details on our timeline and pricing is one the slide right now.
-### Our USP in terms of financial support is that, we do not need any initial investment of money. Instead. we need a lot of investment in terms of manpower and time.
-### Our expected baseline revenue is SGD5,000 ++ in our first year of operations.
-### The broad cost for registering with us ranges from SGD480 to around SGD760 per student at the bare minimum. At the baseline, tutors with us can make an income of SGD 432 to SGD684 at the bare minimum
-## **What do we want form you?**
-### Our business in its entirety is optimised and enabled by technology. For all. the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
 ## **Marketing + Future?**
 ### Marketing will be done via social media platforms (Instagram, Facebook, Twitter) and via a podcast we will be launching soon titles CrashTalks
-### As suggested by our philosophy, "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future, while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.s
+### As suggested by our philosophy, "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future, while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.
+## **What do we want form you?**
+### As. you must you have realised by now, our business in its entirety is optimised and enabled by technology. For all, the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
+s
