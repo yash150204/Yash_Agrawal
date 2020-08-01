@@ -58,6 +58,15 @@ tags:
 ### As suggested by our philosophy, "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future, while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.
 ## **Why should u invest in us + What do we want form you?**
 ### Impact on society
-#### 
+#### As we are reaching out to the community for assistance with regard to manpower, we feel that it is only right that we give back to the community.
+#### 1. We generate employment
+##### We provide an unseen opportunity for our tutors to diversify their skill and earn an income while studying in their universities.
+#### 2. We are environmentally friendly
+##### Having our service completely online, we are playing a role in preventing environmental exploitation as the resources provided are in digital form. In addition, by having students at home our direct energy consumption and pollution levels will be near to 0.
+##### This also demonstrates our unmatched attention and respect towards the environment.
+#### 3. We are introducing a revolution in learning
+#### 4. We are generation understanding of the provided service in the community
+#### 5. We are offering a great opportunity for individuals to upgrade their skills and add to their CV
+##### Online tutoring is an excellent chance for our tutors to diversify their skill and earn an income while studying in their universities that too at the comfort of their home.
 ### As. you must you have realised by now, our business in its entirety is optimised and enabled by technology. For all, the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
 s
