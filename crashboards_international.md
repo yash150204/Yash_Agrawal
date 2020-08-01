@@ -10,12 +10,12 @@ tags:
 ### For the idea, feasibility means that your project can be enabled by technology or optimized by technology, potential means that your project must be scalable and become big. When it comes to you, we want to help people who really want to start an entrepreneurial project thus once we make you an offer today you will need to accept or decline it today. We have options to help you if you’re on a really tight budget such as financing options or a simple one-time fee product to start that we call an MVP-A.
 ## **Who are we?**
 ### We are a group of students studying in an international school and have been experimenting with several business ideas since the best part of one year.
-### Why starting?
+### Why are we starting?
    :PROPERTIES:
    :CUSTOM_ID: 5f24d1d9-3328-4301-bf75-bec1506ea697
    :END:
-#### We have experimented with several failed idea's, mostly lavish concepts on paper, but we have for the first come up with a concept that (1) helps the society and (2) is actually possible in reality along with a pretty decent profit margin.
-#### One of our co-founders [[Yash Agrawal]] had signed up for an online tutoring service, and there he realised the value individuals can gets from high quality peer-peer learning + having a support network that is comprised of students in themselfs. (Expanded on the ((5f24d242-8660-40e0-96c0-466b23e10fdb)) section)
+#### We have experimented with several flawed idea's, mostly lavish concepts on paper, but we have for the first come up with a concept that (1) helps the society and (2) is actually possible in reality along with a pretty decent profit margin.
+#### One of our co-founders [[Yash Agrawal]] had signed up for an online tutoring service, and there he realised the value individuals can gets from high-quality peer-peer learning + having a support network that is comprised of students in themselves. (Expanded on the ((5f24d242-8660-40e0-96c0-466b23e10fdb)) section)
 #### **In our own personal circles we wanted to break the notion that social business, build on the noble foundation of helping society cannot be profitable**
 #### The basic idea of CrashBoards International is to provide (1) pocket-friendly (2) short-duration intense crash courses powered by students and ex-students themselves. What are the benefits? (1) Actual students have greater connect and knowledge of the course and subject they are teaching as they are the ones who have given the exam. No teacher can match that level of intimacy that a student experiences with an exam. (2) During the tutoring experience of Yash Agrawal, he had experienced that teaching is more than just a service. It involves more contribution (physical, mental and in terms of time), and once rewarded for this contribution, there is a lot of incentive, purpose and will to teach, serve and contribute to the society.
 ### In short, the vision and goal is for CrashBoards International to work towards two potent targets: (1) beneficial, impactful and sustainable peer-to-peer learning and, (2) providing a source of income to students.
