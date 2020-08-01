@@ -17,8 +17,16 @@ tags:
 #### As [[Robert T. Kiyosaki]] suggests, that we should ask questions that mentally challenge us, questions that actually put our brains on "mental excercise" and stuff that puts your brain to work.
 #### As our friend [[Tim Ferris]] says in the [[Book - The 4-Hour Workweek]], we need to challenge the conventional, and not settle for the conventional.
 ### "Proper physical exercise increases your chances for health, and proper mental exercise increases your chances for wealth."
-### 
-## Lesson 1: The rich don't work for money
+### The ultimate #LifeAdvice
+#### #EVERGREEN
+#### One dad recommended, “Study hard so you can find a good company to work for.” The other recommended, “Study hard so you can find a good company to buy.”
+#### One dad said, “The reason I’m not rich is because I have you kids.” The other said, “The reason I must be rich is because I have you kids.”
+#### One encouraged talking about money and business at the dinner table, while the other forbade the subject of money to be discussed over a meal.
+#### One said, “When it comes to money, play it safe. Don’t take risks.” The other said, “Learn to manage risk.”
+#### One believed, “Our home is our largest investment and our greatest asset.” The other believed, “My house is a liability, and if your house is your largest investment, you’re in trouble.”
+
+Excerpt From: Robert T kiyosaki. “Rich Dad Poor Dad”. Apple Books
+## **Lesson 1: The rich don't work for money**
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
 ## Lesson 4: The history of taxes and the power of corperations
