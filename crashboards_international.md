@@ -16,11 +16,11 @@ tags:
    :END:
 #### We have experimented with several failed idea's, mostly lavish concepts on paper, but we have for the first come up with a concept that (1) helps the society and (2) is actually possible in reality along with a pretty decent profit margin.
 #### One of our co-founders [[Yash Agrawal]] had signed up for an online tutoring service, and there he realised the value individuals can gets from high quality peer-peer learning + having a support network that is comprised of students in themselfs. (Expanded on the ((5f24d242-8660-40e0-96c0-466b23e10fdb)) section)
-#### As I said, we had been looking for a way into the startup and entrepreneurial world since the past year, and we wanted to make a monetisable service, fulfilling our own two personal aspirations (1) help the society and (2) build something with little investment and maximum profit. **In our own personal circles we wanted to break the notion that social business, build on the noble foundation of helping society cannot be profitable**
+#### **In our own personal circles we wanted to break the notion that social business, build on the noble foundation of helping society cannot be profitable**
 #### The basic idea of CrashBoards International is to provide (1) pocket-friendly (2) short-duration intense crash courses powered by students and ex-students themselves. What are the benefits? (1) Actual students have greater connect and knowledge of the course and subject they are teaching as they are the ones who have given the exam. No teacher can match that level of intimacy that a student experiences with an exam. (2) During the tutoring experience of Yash Agrawal, he had experienced that teaching is more than just a service. It involves more contribution (physical, mental and in terms of time), and once rewarded for this contribution, there is a lot of incentive, purpose and will to teach, serve and contribute to the society.
 ### In short, the vision and goal is for CrashBoards International to work towards two potent targets: (1) beneficial, impactful and sustainable peer-to-peer learning and, (2) providing a source of income to students.
 ## **What do we offer**
-### CrashBoards’ business structure offers a paid service for SG$20 - 40 per day, per student.  Modelled around efficiency and flexibility as we teach a short duration, intense crash courses covering the entire breadth of more than 13 subjects syllabus across two internationally recognised boards, the IGCSE (International general certificate for secondary education) and the IBDP (International Baccalaureate Diploma Programme) is the Unique selling point of our business. Our sessions would occur in June and December, aimed at students giving their board exams in the next 5-6 months.
+### CrashBoards’ business structure offers a paid service for SG$20 - 40 per day, per student.  Modelled around efficiency and flexibility as we teach the entire breadth of more than 13 subjects syllabus across two internationally recognised boards, the IGCSE (International general certificate for secondary education) and the IBDP (International Baccalaureate Diploma Programme). With a 10% commission from tutors, 90% of the revenue will be given to our tutors as 'reward' for their services. Our sessions would occur virtually during the months of June and December, aimed at students giving their board exams in the next 5-6 months.
 ### The IGCSE branch of CrashBoards is inventively named CrashIGCSE, and the IBDP branch of CrashBoards will be CrashBacculureate.
 ### If you are familiar with the IBDP, there are several facets of the diploma, such as the individual assessment and extended essay which we plan to offer aid on.
 ### Our business model will facilitate the online collaboration of tutors and students who require a quick revision or guidance to boost their scores in a short span of time during their summer or winter breaks. CrashBoards believes that online teaching is highly effective and it particularly focuses on enhancing students' learning ability and critical thinking process.
@@ -36,8 +36,11 @@ tags:
 ### In general, we are mainly to target a group of individuals who have passed through the course and are **not** pursuing professional teaching.
 ## Before we move on the pricing, do have a look at our consolidated SWOT analysis.
 ## **Timeline + pricing**
-## Each branch of CrashBoards International will have its own website. The reason being to disperse the various options we are giving the consumer.
-## The websites mark the commence. ofthis venture and we are planning to do so mid september. Student and tutor registerations also begin around that time. 
+### Each branch of CrashBoards International will have its own website. The reason being to disperse the various options we are giving the consumer.
+### The websites mark the commence of this venture and we are planning to do so at the start of October. Student and tutor registrations also begin around that time. The actual tutoring session for December will commence on 10th December 2020.
+### More details on our timeline is one the slide right now.
+## Pricing
+### The broad cost for registering with us ranges from SGD320 ownwards, 
 ### get from notion page
 ### the introduction of CrashTalks + purpose
 ## **What do we want form you?**
