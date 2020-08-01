@@ -38,3 +38,16 @@ tags:
 ## 8. Getting started
 ## 9. Still want more? Here are some to-do's
 ## 10. Final thoughts
+## 
+## |---|---|---|
+|Oil|Fresh|Used|
+|---|---|---|
+|Sesemea|24.4|25.5|
+|Coconut|37.7|31.5|
+|Sunflower|25|22.7|
+|Musturd|44|24.3|
+## |   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
