@@ -14,7 +14,7 @@ tags:
 #### This is something that I have been hearing for ages. This is #life and something that I really want to address. Why don't schools teach money?
 ### "How will a nation survive if teaching children about money continues to be left to parents—most of whom will be, or already are, poor?”
 ### There should be a change in mindset from "I cant afford it" (a sign of mental illness) to "how can I afford it".
-#### As [[Robert T. Kiyosaki]] suggests, that we should ask questions that mentally challenge us, questions that actually put our brains on "mental excercise" and stuff that puts your brain to work.
+#### As [[Robert T. Kiyosaki]] suggests, that we should ask questions that mentally challenge us, questions that actually put our brains on  "mental exercise" and stuff that puts your brain to work.
 #### As our friend [[Tim Ferris]] says in the [[Book - The 4-Hour Workweek]], we need to challenge the conventional, and not settle for the conventional.
 ### "Proper physical exercise increases your chances for health, and proper mental exercise increases your chances for wealth."
 ### The ultimate #LifeAdvice
@@ -32,7 +32,13 @@ tags:
 ### The idea that "It's all about the climb", is also bought up here. In terms of money: “You’re only poor if you give up. The most important thing is that you did something. Most people only talk and dream of getting rich. You’ve done something.”
 ### This is just s #fun comment: “School is beginning, or it’s over in 10 seconds”
 ### The moment you think that you are done and that you want to quit life has a learning for you. Life is waiting for you to fail at that moment. Life is waiting for you to give up. But, at that same time, life is also willing to give you an opportunity to learn. But if you keep being angry over the fact that you have failed, the learning that life is trying to give you will suddenly be shrouded in fog and will become impossible to see. #LifeAdvice
-#### 
+#### “I’m quitting,” I told Mike at lunchtime. School was boring, and now I did not even have my Saturdays to look forward to. But it was the 30 cents that really got to me.
+#### This time Mike smiled.
+#### “What are you laughing at?” I asked with anger and frustration.
+#### “Dad said this would happen. He said to meet with him when you were ready to quit.”
+#### “What?” I said indignantly. “He’s been waiting for me to get fed up?”
+#### “Sort of,” Mike said. “Dad’s kind of different. He doesn’t teach like your dad. Your mom and dad lecture a lot. My dad is quiet and a man of few words. You just wait till this Saturday. I’ll tell him you’re ready.”
+### “But that is not how life teaches you, and I would say that life is the best teacher of all. Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, ‘Wake up. There’s something I want you to learn.’"
 ## Lesson 2: Why teach financial literacy?
 ## Lesson 3: Mind your own business
 ## Lesson 4: The history of taxes and the power of corperations
