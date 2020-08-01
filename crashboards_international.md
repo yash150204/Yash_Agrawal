@@ -11,6 +11,10 @@ tags:
 ## Who are we?
 ## group of students
 ## why starting?
+   :PROPERTIES:
+   :CUSTOM_ID: 5f24d1d9-3328-4301-bf75-bec1506ea697
+   :END:
+
 ## 1. online tutoring experience
 ## 2. way to earn a quick buck somewhere
 ## 3. we have always wanted to open a business in one form or the other
@@ -21,3 +25,22 @@ tags:
 ## More then 16 days, less then 22says, max 30 days
 ## Whom do we hire?
 ## all the types
+## mainly unprofessional, lol ^^_Find a new word_^^
+## IB
+## IGCSE
+## Purpose and philosphy
+## our two objectives
+## our tagline + reason for each
+## (1)
+## We want to spread knowledge and get involved in research and helping the overall community diversifying from what we usually offer
+## (2)
+## ((5f24d1d9-3328-4301-bf75-bec1506ea697))
+## Timeline + pricing
+## get from notion page
+## the introduction of CrashTalks + purpose
+## What do we want form you?
+## for all of this we need a website. We need it fast
+## "optimised" and "enabled" by technology
+## Future?
+## Entries
+## Other national or international courses
