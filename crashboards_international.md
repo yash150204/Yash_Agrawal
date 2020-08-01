@@ -38,13 +38,11 @@ tags:
 ## **Timeline + pricing**
 ### Each branch of CrashBoards International will have its own website. The reason being to disperse the various options we are giving the consumer.
 ### The websites mark the commence of this venture and we are planning to do so at the start of October. Student and tutor registrations also begin around that time. The actual tutoring session for December will commence on 10th December 2020.
-### More details on our timeline is one the slide right now.
-## Pricing
-### The broad cost for registering with us ranges from SGD320 ownwards, 
-### get from notion page
-### the introduction of CrashTalks + purpose
+### More details on our timeline and pricing is one the slide right now.
+### Our expected baseline revenue is SGD5,000 in our first years of operations, and that too without any initial investment!
+### The broad cost for registering with us ranges from SGD320 onwards,
 ## **What do we want form you?**
-### for all of this we need a website. We need it fast
-### "optimised" and "enabled" by technology
-## **Future?**
+### Our business in its entirety is optimised and enabled by technology. For all. the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
+## **Marketing + Future?**
+### Marketing will be done via social media platforms (Instagram, Facebook, Twitter) and via a podcast we will be launching soon titles CrashTalks
 ### As suggested by our philosophy, "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future, while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.s
