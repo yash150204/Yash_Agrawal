@@ -10,7 +10,7 @@ tags:
 ### For the idea, feasibility means that your project can be enabled by technology or optimized by technology, potential means that your project must be scalable and become big. When it comes to you, we want to help people who really want to start an entrepreneurial project thus once we make you an offer today you will need to accept or decline it today. We have options to help you if you’re on a really tight budget such as financing options or a simple one-time fee product to start that we call an MVP-A.
 ## **Who are we?**
 ### We are a group of students studying in an international school and have been experimenting with several business ideas since the best part of one year.
-### Why are we starting?
+### Why are we starting? (We can probably ignore this points to avoid getting stuff streched)
    :PROPERTIES:
    :CUSTOM_ID: 5f24d1d9-3328-4301-bf75-bec1506ea697
    :END:
@@ -18,11 +18,8 @@ tags:
 #### One of our co-founders [[Yash Agrawal]] had signed up for an online tutoring service, and there he realised the value individuals can gets from high-quality peer-peer learning + having a support network that is comprised of students in themselves. (Expanded on the ((5f24d242-8660-40e0-96c0-466b23e10fdb)) section)
 #### **In our own personal circles we wanted to break the notion that social business, build on the noble foundation of helping society cannot be profitable**
 #### The basic idea of CrashBoards International is to provide (1) pocket-friendly (2) short-duration intense crash courses powered by students and ex-students themselves.
-#### Benefits
-##### (1) Actual students have greater connect and knowledge of the course and subject they are teaching as they are the ones who have given the exam. No teacher can match that level of intimacy that a student experiences with an exam.
-##### (2) During the tutoring experience of Yash Agrawal, he had experienced that teaching is more than just a service. It involves more contribution (physical, mental and in terms of time), and once rewarded for this contribution, there is a lot of incentive, purpose and will to teach, serve and contribute to the society.
-##### Peer to peer online teaching is highly effective and it particularly focuses on enhancing students' learning ability and critical thinking process.
 ### In short, the vision and goal is for CrashBoards International to work towards two potent targets: (1) beneficial, impactful and sustainable peer-to-peer learning and, (2) providing a source of income to students.
+### We **do not** offer our courses to **teach** students, but rather offer our courses to **rigorously assess and challenge their existing knowledge about a subject** pushing it to new boundaries through a series of question papers, quizzes etc. We obviously also cover the 'challenging topics', but theoretical knowledge is given second priority in comparison to practical application of the concept.
 ## **What do we offer**
 ### Modelled around efficiency and flexibility as we teach the entire breadth of more than 13 subjects syllabus across two internationally recognised boards, the IGCSE (International general certificate for secondary education) and the IBDP (International Baccalaureate Diploma Programme).
 ### CrashBoards’ business structure offers this paid service for SG$20 - 40 per day, per student.
@@ -39,6 +36,10 @@ tags:
    :CUSTOM_ID: 5f24d242-8660-40e0-96c0-466b23e10fdb
    :END:
 ### To minimise the cost paid by our students, keep our doors open to all, and to keep CrashBoards International pocket friendly, we need to manage our workforce, i.e, our tutors.
+### Benefits
+#### (1) Actual students have greater connect and knowledge of the course and subject they are teaching as they are the ones who have given the exam. No teacher can match that level of intimacy that a student experiences with an exam.
+#### (2) During the tutoring experience of Yash Agrawal, he had experienced that teaching is more than just a service. It involves more contribution (physical, mental and in terms of time), and once rewarded for this contribution, there is a lot of incentive, purpose and will to teach, serve and contribute to the society.
+#### Peer to peer online teaching is highly effective and it particularly focuses on enhancing students' learning ability and critical thinking process.
 ### Smartly choosing our groups of tutors, we manage to keep our costs very low.
 #### In general, we are mainly to target a group of individuals who have passed through the course and are **not** pursuing professional teaching.
 #### Eg: Senior high school, undergraduate and postgraduate students who will be working part-time in our organisation
@@ -51,14 +52,14 @@ tags:
 ### Pricing + Revenue
 #### With a 10% commission from tutors, 90% of the revenue will be given to our tutors as 'reward' for their services and give them some (1) financial incentive and (2) financial independence.
 #### Our expected baseline revenue is SGD5,000 ++ in our first year of operations.
-#### The broad cost for registering with us ranges from SGD480 to around SGD760 per student at the bare minimum. At the baseline, tutors with us can make an income of SGD 432 to SGD684 at the bare minimum
+#### The broad cost for registering with us ranges from SGD480 to around SGD760 per student at the bare minimum. At the baseline, tutors with us can make an income of SGD432 to SGD684 at the bare minimum
 ### More details on our timeline and pricing is one the slide right now.
 ## **Marketing + Future?**
 ### Marketing will be done via social media platforms (Instagram, Facebook, Twitter) and via a podcast we will be launching soon titles CrashTalks
-### As suggested by our philosophy, "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future, while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.
+### As suggested by our philosophy, we aim to build "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.
 ## **Why should u invest in us + What do we want form you?**
+### As we are reaching out to the community for assistance with regard to manpower, we feel that it is only right that we give back to the community.
 ### Impact on society
-#### As we are reaching out to the community for assistance with regard to manpower, we feel that it is only right that we give back to the community.
 #### 1. We generate employment
 ##### We provide an unseen opportunity for our tutors to diversify their skill and earn an income while studying in their universities.
 #### 2. We are environmentally friendly
