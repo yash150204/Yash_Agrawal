@@ -7,4 +7,4 @@ tags:
 ## "The moment I start paying you think like an employee. Entrepreneurs work for free."
 ## Making money is basically playing monopoly in real life: 4 green houses 1 red hotel.
 ### Acquire assets and that becomes bigger assets
-## 
+## “Don’t be addicted to money. Work to learn. don’t work for money. Work for knowledge.” – [[Robert T. Kiyosaki]] #QUOTE
