@@ -9,7 +9,7 @@ tags:
 ### We will evaluate the idea and yourself based on three simple things: feasibility and potential for the idea and your eagerness to start your project and become an entrepreneur. Once done we will propose either our Full Assistance plan, our Startup Assistance plan or our Partial Assistance plan. Full Assistance is our best plan and is 5 to 6 times less expensive than market cost, Startup Assistance is 3 to 4 times less expensive than market cost, and Partial Assistance is twice less expensive than market cost.
 ### For the idea, feasibility means that your project can be enabled by technology or optimized by technology, potential means that your project must be scalable and become big. When it comes to you, we want to help people who really want to start an entrepreneurial project thus once we make you an offer today you will need to accept or decline it today. We have options to help you if you’re on a really tight budget such as financing options or a simple one-time fee product to start that we call an MVP-A.
 ## **Who are we?**
-### We are a group of students studying in an international school and have been experimenting with several business ideas since the best part of one year.
+### We are a group of students studying in an international school and have been experimenting with several business ideas since the best part of one year before CrashBoards happened.
 ### Why are we starting? (We can probably ignore this points to avoid getting stuff streched)
    :PROPERTIES:
    :CUSTOM_ID: 5f24d1d9-3328-4301-bf75-bec1506ea697
@@ -18,8 +18,7 @@ tags:
 #### One of our co-founders [[Yash Agrawal]] had signed up for an online tutoring service, and there he realised the value individuals can gets from high-quality peer-peer learning + having a support network that is comprised of students in themselves. (Expanded on the ((5f24d242-8660-40e0-96c0-466b23e10fdb)) section)
 #### **In our own personal circles we wanted to break the notion that social business, build on the noble foundation of helping society cannot be profitable**
 #### The basic idea of CrashBoards International is to provide (1) pocket-friendly (2) short-duration intense crash courses powered by students and ex-students themselves.
-### In short, the vision and goal is for CrashBoards International to work towards two potent targets: (1) beneficial, impactful and sustainable peer-to-peer learning and, (2) providing a source of income to students.
-### We **do not** offer our courses to **teach** students, but rather offer our courses to **rigorously assess and challenge their existing knowledge about a subject** pushing it to new boundaries through a series of question papers, quizzes etc. We obviously also cover the 'challenging topics', but theoretical knowledge is given second priority in comparison to practical application of the concept.
+### In summary, the vision and goal for CrashBoards International is to work towards two potent targets: (1) beneficial, impactful and sustainable peer-to-peer learning and, (2) providing a source of income to students.
 ## **What do we offer**
 ### Modelled around efficiency and flexibility as we teach the entire breadth of more than 13 subjects syllabus across two internationally recognised boards, the IGCSE (International general certificate for secondary education) and the IBDP (International Baccalaureate Diploma Programme).
 ### CrashBoards’ business structure offers this paid service for SG$20 - 40 per day, per student.
@@ -28,6 +27,7 @@ tags:
 ### The IGCSE branch of CrashBoards is inventively named CrashIGCSE, and the IBDP branch of CrashBoards will be CrashBacculureate.
 #### If you are familiar with the IBDP, there are several facets of the diploma, such as the individual assessment and extended essay which we plan to offer aid on.
 ### We have designed our business model to facilitate the online collaboration of tutors and students who require a quick revision or guidance to boost their scores in a short span of time during their summer or winter breaks.
+### We **do not** offer our courses to **teach** students, but rather offer our courses to **rigorously assess and challenge their existing knowledge about a subject** pushing it to new boundaries through a series of question papers, quizzes etc. We obviously also cover the 'challenging topics', but theoretical knowledge is given second priority in comparison to practical application of the concept.
 ### Duration of course
 #### At CrashBoards we understand that every teacher has his/her own style of educating, and it would be waste of talent to push an educator to complete his/her teaching in a set time frame. Keeping respect of this very fact, the duration of each subject within a course will vary, and will depend on the tutor.
 #### The tutor will have to consolidate all the high scoring, tough and conceptual topics to 3 hours a day for a duration of 16 to 22 days, or maximum 30 days.   We belief that 3 hours everyday expect for a Sunday, with a 10 minute break at the mid point is extremely manageable for both students and educators.
