@@ -4,7 +4,7 @@ title: Crashboards International
 tags:
 ---
 ## **MEETING's LOG**
-### [[Aug 2nd, 2020]] 
+### 
 ## 
 ## **Start-up Pitch** on [[Aug 4th, 2020]]
 ## Details
