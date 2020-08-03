@@ -33,4 +33,3 @@ tags:
 ## Case fatality rate = $$ \frac{fatality}{incidence}$$ currently this is 6.9%
 ## Rate of transmission is something that is determined by $$R_o$$ (reproductive ratio) and (2) $$S_I$$ (series interval - the time it takes for the infected individual to infect another person). Hence $R=R_o+S_I  $
 ### Series intervals is with terms of infected individuals
-### /up
