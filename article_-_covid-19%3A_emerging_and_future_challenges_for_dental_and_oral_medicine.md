@@ -21,8 +21,8 @@ tags:
 #### Fatality rate: 0.39 to 4.05% -> higher then SARS and MERS but lower then seasonal influenza
 ## Clinical manifestations
 ### Severe cases represent only 15-23% of all cases
-### More common shit is 
-## **Diagnosis and Treatment**
+## Diagnosis and Treatment
+### Laboratory tests (e.g., reverse transcriptase polymerase chain reaction [RT-PCR] tests on respiratory tract specimens)
 ## Infection control in Dental Settings
 ## Risk of Nosocomial Infection in Dental Settings
 ## Effective Infection control Protocols
