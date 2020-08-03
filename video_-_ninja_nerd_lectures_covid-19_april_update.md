@@ -12,4 +12,5 @@ tags:
 ## Bi-layer envelope that covers the envelope
 ## Viral Nucleic acid: **Postive-sense Single Stranded RNA** abbreviated to +SSRNA
 ### This type is in addition to RNA, DNA and SSRNA
-## 
+## The virus causes a cytokine storm #NIBBLE
+## The bat virus RaTG13 has 96.2% genetic similarity to SARS-COV $$_2$$
