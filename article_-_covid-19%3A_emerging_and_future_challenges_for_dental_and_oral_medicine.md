@@ -13,7 +13,7 @@ infection may be high between dental practitioners and patients.
 ### 
 ## Epidemiological Characteristics
 ### Started with a single animal-to-human transmission follwed by sustained human-to-human spread.
-### Interpersonal transmission through (1) respiratory droplets (2) faecal-oral transmission.
+### Interpersonal transmission through (1) respiratory droplets (2) ^^faecal-oral transmission^^.
 #### Particular route of transmission in fecal particles pass from one person to the mouth of another person.
 #### Cuases: poor hygine + If soil or water bodies are polluted with fecal material humans can be infected with waterbone or soil-transmitted diseases
 ### Aerosol transmission is not confirmed.
