@@ -11,9 +11,8 @@ tags:
 ### Other proteins (1) M and (2) E proteins
 ## Bi-layer envelope that covers the envelope
 ## Viral Nucleic acid: **Postive-sense Single Stranded RNA** abbreviated to +SSRNA
-### This type is in addition to RNA, DNA and SSRNA
-### 
-RTIES:
+## The virus causes a [[cytokine storm]]
+   :PROPERTIES:
    :CUSTOM_ID: 5f277a34-2a79-439c-875b-cd104ce2be90
    :END:
 ### Refer: [Into the Eye of the Cytokine Storm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294426/)
