@@ -12,11 +12,10 @@ tags:
 ## Bi-layer envelope that covers the envelope
 ## Viral Nucleic acid: **Postive-sense Single Stranded RNA** abbreviated to +SSRNA
 ### This type is in addition to RNA, DNA and SSRNA
-## The virus causes a [[cytokine storm]]
-   :PROPERTIES:
+### 
+RTIES:
    :CUSTOM_ID: 5f277a34-2a79-439c-875b-cd104ce2be90
    :END:
-
 ### Refer: [Into the Eye of the Cytokine Storm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294426/)
 ### Basically the immune system going rouge
 ### Not a deep understanding of the molecular occurrences or its contribution to pathogenesis
