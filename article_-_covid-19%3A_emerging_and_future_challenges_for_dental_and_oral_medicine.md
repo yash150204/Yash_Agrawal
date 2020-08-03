@@ -19,12 +19,12 @@ tags:
 ##### Aerosol: a substance enclosed under pressure and released as a fine spray by the means of a propellent gas.
 #### Control is difficult as it is symptomatic and asymptomatic individuals are carriers of the pathogen.
 #### Fatality rate: 0.39 to 4.05% -> higher then SARS and MERS but lower then seasonal influenza
-## Clinical manifestations
+## Clinical manifestations + Diagnosis and Treatment
 ### Severe cases represent only 15-23% of all cases
-## Diagnosis and Treatment
 ### Laboratory tests (e.g., reverse transcriptase polymerase chain reaction [RT-PCR] tests on respiratory tract specimens)
-## Infection control in Dental Settings
+## **Infection control in Dental Settings**
 ## Risk of Nosocomial Infection in Dental Settings
+## 
 ## Effective Infection control Protocols
 ## **Recommended Measures**
 ## Management
