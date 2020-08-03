@@ -24,6 +24,9 @@ tags:
 ".
 #### II: Shopping - "She’s in her usual Martha’s 
 ##### Martha is usually the domestic servants
+#### III: "We stood face to face for the first time five weeks ago, when I arrived at this posting. The Guardian from the previous posting brought me to the front door."
+##### The Guardian implying the local police
+#### 
 ervants
 
 ## Themes
@@ -31,6 +34,12 @@ es
 ### **Language as a tool of power*
 ##### I: Night - “There must have been a chandelier, once. They’ve removed anything you could tie a r
 ###### This gives out a vibe which is that "you can't even kill yourself". YOU do not have any rights what-so-ever.
+## “Where I am is not a prison but a privilege, as Aunt Lydia said”
+### This shows that women with a sexual appetite + who can consummate and reproduce has "privilege" in the "prison" named Gilead
+## **Symbol of the color red**
+### The presence of menstural blood.
+### Symbol of fertility, and the symbol associated with the Virgin Mary
+## "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that meant to behave like a sister."
 at-so-ever.
 er.
  a tool of massacre and is manipulated
