@@ -13,5 +13,6 @@ tags:
 ## Viral Nucleic acid: **Postive-sense Single Stranded RNA** abbreviated to +SSRNA
 ### This type is in addition to RNA, DNA and SSRNA
 ## The virus causes a [[cytokine storm]]
+### Refer: [Into the Eye of the Cytokine Storm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294426/)
 ## The bat virus RaTG13 has 96.2% genetic similarity to SARS-COV $$_2$$
 ## 
