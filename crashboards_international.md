@@ -4,7 +4,9 @@ title: Crashboards International
 tags:
 ---
 ## **MEETING's LOG**
-### 
+### [[Aug 3rd, 2020]] 5pm
+#### Id: 728 5342 5357
+#### Password: 657554
 ## 
 ## **Start-up Pitch** on [[Aug 4th, 2020]]
 ## Details
