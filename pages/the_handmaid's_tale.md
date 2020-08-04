@@ -4,8 +4,14 @@ tags:
 ---
 ## Book
 ### 
+#
 ## Repository of useful quotes + other notes
-## Useful links
+## [[School Notes]]
+### Links
+#### [Margaret Atwood on How She Came to Write _The Handmaid’s Tale_](https://lithub.com/margaret-atwood-on-how-she-came-to-write-the-handmaids-tale/)
+#### [9 nightmarish things in 'The Handmaid's Tale' inspired by history](https://www.insider.com/handmaids-tale-based-on-real-world-origins-history-events-2019-8)
+#### [A Beginner’s Guide to _The Handmaid’s Tale_ Universe](https://www.vulture.com/2017/04/the-handmaids-tale-beginners-guide.html)
+# Useful links
 ### [[https://file.largepdf.com/file/2019/08/28/The%20Handmaid_s%20Tale.pdf][BOOK - The Handmaid's Tale ]] 
    :PROPERTIES:
    :CUSTOM_ID: 5f27b22d-b4dd-4ab3-b22f-556543badcae
@@ -63,7 +69,9 @@ lism an
 ## Blue
 ### Blue
 #### Color of royalty and the color worn by rich people.
-#### Depicts a cold nature. Especially the cold nature of the wives towards the handmaids
+#### Depicts a cold nature. Especially the cold nature of the w
+## **Misc quotes**
+e handmaids
 ## Misc quotes
 Mi
 ### “Where I am is not a prison but a privilege, as Aunt Lydia said��
