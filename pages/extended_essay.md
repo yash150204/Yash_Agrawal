@@ -12,7 +12,7 @@ tags:
 ### Beaker, 400 ml
 ### Graduated cylinder
 ### Pipets, 1ml, 10ml
-#### Temperature bath (or heat source -- Bunsen burner or hot plate)
+### Temperature bath (or heat source -- Bunsen burner or hot plate)
 ### Thermometer
 ### Stirring rod
 ### Funnel and filter paper (or centrifuge)
@@ -20,3 +20,6 @@ tags:
 ### Balance
 ### Blender
 ### Spectrophotometer
+### Protein source (cottage cheese or curds from Experiment No. 1)
+### Protease
+### Ninhydrin solution
