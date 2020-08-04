@@ -25,6 +25,7 @@ tags:
 ### Using a syringe, 10ml each concentration of PPA was poured into 5 250ml conical flasks
 ### Using a syringe, 10ml of water was poured into 1 conical flask
 ### 100ml of YPD broth was poured into each of the 6 conical flasks
-### 100ml of the 
+### 100ml of the _S. cerevisiae_ solution was each added into the conical flask
+### 
 ### Make final solution
 ### Analysis
