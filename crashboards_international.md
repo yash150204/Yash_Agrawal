@@ -26,9 +26,9 @@ tags:
 ## **What do we offer**
 ### Modelled around efficiency and flexibility as we teach the entire breadth of more than 13 subjects syllabus across two internationally recognised boards, the IGCSE (International general certificate for secondary education) and the IBDP (International Baccalaureate Diploma Programme).
 ### CrashBoards’ business structure offers this paid service for SG$20 - 40 per day, per student.
-#
 #### For comparison, our daily cost is half. the hourly cost of professional tutors.
 ### Our sessions would occur virtually during the months of June and December, aimed at students giving their board exams in the next 5-6 months.
+.
 #### Seasonal business
 ## The IGCSE branch of CrashBoards is inventively named CrashIGCSE, and the IBDP branch of CrashBoards will be CrashBacculureate.
 #### If you are familiar with the IBDP, there are several facets of the diploma, such as the individual assessment and extended essay which we plan to offer aid on.
@@ -55,16 +55,18 @@ tags:
 ## **Timeline + pricing*
 ### Each branch of CrashBoards International will have its own website. The reason being to disperse the various options we are giving the consumer, and to prevent the consumer from getting overwhelmed.
 .
-### Timeline
-#### The websites mark the commence of this venture and we are planning to do so at the start of October. Student and tutor registrations also begin around that time. The actual tutoring session for December will commence on 10th December 2020.
+### Timelin
+#### The websites mark the commencement of this venture and we are planning to do so at the start of October. Student and tutor registrations also begin around that time. The actual tutoring session for December will commence on 10th December 2020.
+.
 #### Our USP in terms of financial support is that, we do not need any initial investment of money. Instead. we need a lot of investment in terms of manpower and time.
 ### Pricing + Revenue
 #### With a 10% commission from tutors, 90% of the revenue will be given to our tutors as 'reward' for their services and give them some (1) financial incentive and (2) financial independence.
 #### Our expected baseline revenue is SGD5,000 ++ in our first year of operations.
 #### The broad cost for registering with us ranges from SGD480 to around SGD760 per student at the bare minimum. At the baseline, tutors with us can make an income of SGD432 to SGD684 at the bare minimum
 ### More details on our timeline and pricing is one the slide right now.
-## **Marketing + Future?**
-### Marketing will be done via social media platforms (Instagram, Facebook, Twitter) and via a podcast we will be launching soon titles CrashTalks
+## **Marketing + Future?*
+### Marketing will be done via social media platforms (Instagram, Facebook, Twitter) and via a podcast, we will be launching soon titled CrashTalks
+s
 ### As suggested by our philosophy, we aim to build "the one-shot academia to charge your brain and change your grades", we wish to pursue research in the future while teaching other national and international courses and also offering crash-courses on entry-level exams and admissions.
 ## **Why should u invest in us + What do we want form you?**
 ### As we are reaching out to the community for assistance with regard to manpower, we feel that it is only right that we give back to the community.
@@ -77,6 +79,7 @@ tags:
 #### 3. We are introducing a revolution in learning
 #### 4. We are generation understanding of the provided service in the community
 #### 5. We are offering a great opportunity for individuals to upgrade their skills and add to their CV
-##### Online tutoring is an excellent chance for our tutors to diversify their skill and earn an income while studying in their universities that too at the comfort of their home.
+##### Online tutoring is an excellent chance for our tutors to diversify their skill and ear
 ### As. you must you have realised by now, our business in its entirety is optimised and enabled by technology. For all, the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
+ards, we need websites, and we really need them fast for which we have approached you.
 s
