@@ -20,7 +20,8 @@ tags:
 
 ### [[https://www.sparknotes.com/lit/handmaid/][Spark Notes - The Handmaid's Tale]]
 ## Notes
-### There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes
+### There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes.
+## Location: [[Gilead]]
 ## **Motifs**
 *
 ## 1. Rape and sexual violence
@@ -73,9 +74,13 @@ a tool of power**
 #### In a totalitarian state, Atwood suggests, people will endure oppression willingly as long as they receive some slight amount of power or freedom. Offred remembers her mother saying that it is “truly amazing, what people can get used to, as long as there are a few compensations.” Offred’s complacency after she begins her relationship with Nick shows the truth of this insight. Her situation restricts her horribly compared to the freedom her former life allowed, but her relationship with Nick allows her to reclaim the tiniest fragment of her former existence. The physical affection and companionship become compensation that make the restrictions almost bearable. Offred seems suddenly so content that she does not say yes when Ofglen asks her to gather information about the Commander.
 #### Women in general support Gilead’s existence by willingly participating in it, serving as agents of the totalitarian state. While a woman like Serena Joy has no power in the world of men, she exercises authority within her own household and seems to delight in her tyranny over Offred. She jealously guards what little power she has and wields it eagerly. In a similar way, the women known as Aunts, especially Aunt Lydia, act as willing agents of the Gileadean state. They indoctrinate other women into the ruling ideology, keep a close eye out for rebellion, and generally serve the same function for Gilead that the Jewish police did under Nazi rule.
 #### Atwood’s message is bleak. At the same time as she condemns Offred, Serena Joy, the Aunts, and even Moira for their complacency, she suggests that even if those women mustered strength and stopped complying, they would likely fail to make a difference. In Gilead the tiny rebellions of resistances do not necessarily matter. In the end, Offred escapes because of luck rather than resistance.
-placency
 ## 4. Complicaity
+### SparkNotes
+#### _The Handmaid’s Tale_ explores the ways in which ordinary people become complicit in the appalling acts of a totalitarian regime. Although the novel’s women are all to some extent victims of the Gileadean state, many of them choose complicity rather than rebellion. Serena Joy is miserable and has very little freedom, but she enjoys and exploits the power she wields over Offred. More seriously, the Aunts are not just complicit in the regime’s crimes: they are amongst the novel’s worst perpetrators, responsible for torture and psychological abuse. Offred’s place on the spectrum of complicity is ambiguous. She hates and fears the regime, and does not believe in its values. Being true to her own beliefs would require her to rebel, but she does not. Instead she accepts her role without complaint. Even in her own head she refuses to call the Ceremony “rape,” because “nothing is going on here that I haven’t signed up for” (Chapter 16). Offred’s choices invite us to wonder where passivity ends and complicity begins.
 ## 5. Seeing
+### SparkNotes
+#### _The Handmaid’s Tale_ draws on the feminist idea that in a male-dominated society, the way men look at women is a form of control and even violence. Offred’s “white wings” (Chapter 2) severely limit her own ability to see. Meanwhile she constantly feels observed—and threatened—by eyes. She sees the patch of plaster in her bedroom ceiling as a “blind plaster eye” and the convex mirror on the stairs as a “fisheye” (Chapter 17). The secret police of the Gileadean regime are known as the “Eyes,” and their emblem, a winged eye, is painted everywhere. Offred thinks of these eyes as male, even comparing eyes to penises and penises to eyes, for instance when she describes the Commander’s penis as a “stalked slug’s eye” (Chapter 15). However, while the novel endorses a feminist concept of the way men look at women, it also warns that feminist concepts alone don’t offer protection from male domination. The only character who outright states the idea that the way men look at women can be a form of violence is Aunt Lydia. “To be seen—to be _seen_—is to be—her voice trembled—penetrated.” (Ch. 5). Aunt Lydia’s quote suggests that even feminist concepts can be co-opted and used to oppress women.
+. Seeing
 ## 6. Reproduction
 ## **Symbolism and color**
 lism an
