@@ -3,6 +3,8 @@ title: Biology IA
 tags:
 ---
 
+## [Biology IA Value spreadsheet](https://docs.google.com/spreadsheets/d/1KQqqrPHAmVt9peTZIlsk0FV1Pol2nd6xq_8nzRSKfOU/edit#gid=0)
+## [Cell Viability calculator]
 ## **Apparatus**
 ### YPD broth ( $$5g×6$$ per trial)
 ### _S. cerevisiae_  ( $$5g×6$$ per trial)
