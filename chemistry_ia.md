@@ -19,6 +19,7 @@ tags:
 ### I molar NaOH (8×25ml per trial)
 ### 1 Molar HCl
 ### Phenolphthalein
+### Butter paper (×1)
 ### Conical flask (×8) per trial
 ### Balance (×1)
 ### 5ml syringe (×1)
