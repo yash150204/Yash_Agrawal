@@ -1,4 +1,3 @@
-
 ---
 title: The Handmaid's Tale
 tags:
@@ -20,38 +19,40 @@ tags:
 ##### Sexual violence, particularly against women, pervades _The Handmaid’s Tale._ The prevalence of rape and pornography in the pre-Gilead world justified to the founders their establishment of the new order. The Commander and the Aunts claim that women are better protected in Gilead, that they are treated with respect and kept safe from violence. Certainly, the official penalty for rape is terrible: in one scene, the Handmaids tear apart with their bare hands a supposed rapist (actually a member of the resistance). Yet, while Gilead claims to suppress sexual violence, it actually institutionalizes it, as we see at Jezebel’s, the club that provides the Commanders with a ready stable of prostitutes to service the male elite. Most important, sexual violence is apparent in the central institution of the novel, the Ceremony, which compels Handmaids to have sex with their Commanders.
 #### I: Night - Narrator: Offred - "I remember that yearning, for something that was always about to happen and was never the same as the hands that were on us there and then, in the small of the back, or out back, in the parking lot, or in the television room with the sound turned down and only the pictures flickering over lifting flesh."
 ##### Description of sexual exploitation. These people are probably some type of sex workers or something
-## 2. Religious terms and biblical allusions used for Political Purposes
-*
-s**
-#### SparkNot
+#
+## 2. Religious terms and biblical allusions used for Political Purpose
+#### SparkNotes
 ##### Gilead is a theocracy—a government in which there is no separation between state and religion—and its official vocabulary incorporates religious terminology and biblical references.
 ##### Domestic servants are called “Marthas” in reference to a domestic character in the New Testament
 ##### The local police are “Guardians of the Faith”
 ##### Soldiers are “Angels”; and the Commanders are officially Commanders of the Faithful.”
 ##### All the stores have biblical names: Loaves and Fishes, All Flesh, Milk and Honey. Even the automobiles have biblical names like Behemoth, Whirlwind, and Chariot. Using religious terminology to describe people, ranks, and businesses whitewashes political skullduggery in pious language. It provides an ever-present reminder that the founders of Gilead insist they act on the authority of the Bible itself. Politics and religion sleep in the same bed in Gilead, where the slogan “God is a National Resource” predominates.
-s.
 ##### Martha
 ###### Martha translates to "the misteress" or "the lady".
-###### Though she is venerated as a figure of maturity and strength, it is quite ironical that she is used to represent the domestic servants, who are, in a theocracy a symbol of weakness and lack any power what-so-eve
-#### I: Night - “specially picked from the Angels��
+###### Though she is venerated as a figure of maturity and strength, it is quite ironical that she is used to represent the domestic servants, who are, in a theocracy a symbol of weakness and lack any power what-so-ever.
+#### I: Night - “specially picked from the Angels”.
 ##### Angles refer to soldiers from the Army and are called "objects" to enforce "fear".
-fear".
-r".
-".
-#### II: Shopping - "She’s in her usual 
+#### II: Shopping - "She’s in her usual Martha’s dress"
 ##### Martha is usually the domestic servants
-tic servants
-#### III: "We stood face to face for the first time five weeks ago, when I arrived at this posting. The Guardian from the previous posting brought me to the 
+#### III: "We stood face to face for the first time five weeks ago, when I arrived at this posting. The Guardian from the previous posting brought me to the front door."
 ##### The Guardian implying the local police.
-##### This also suggests that the law supports and even sanctions these handmaids and stuff like 
+##### This also suggests that the law supports and even sanctions these handmaids and stuff like that.
+## 3. 
 ## **Themes**
+
+*
 ## 1. Language as a tool of power
 **
 a tool of power**
 ##### I: Night - “There must have been a chandelier, once. They’ve removed anything you could t
-###### This gives out a vibe which is that "you can't even kill yourself". YOU do not have any rights what-so-ever.
-hts wha
-## **Symbolism an
+###### This gives out a vibe which is that "you can't even kill yourself". YOU do not have any rights what-
+## 2. Womens bodies as a political instrument
+## 3. The causes of complacency
+## 4. Complicaity
+## 5. Seeing
+## 6. Reproduction
+## **Symbolism and color**
+lism an
 ## Red
 *
 ### Red
