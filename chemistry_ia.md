@@ -17,4 +17,9 @@ tags:
 ### 5g of oil pored
 ### 5ml of ethanol
 ### 25ml of NaOH
-### Put in water bath at a temperature from 65 - 70ºC 
+### Rubber plug
+### Put in water bath at a temperature from 65 - 70ºC
+### Remove the plug every 15 minutes to release gas and maintain pressure
+### Fill HCl in the burette till it reaches the $$0cm^3$$ mark
+### Add 5 drops of phenolphthalein
+### Add HCl into the conical flask until the color of the solution turn colorless
