@@ -7,6 +7,8 @@ tags:
 ### YPD broth ( $$5g×6$$ per trial)
 ### _S. cerevisiae_  ( $$5g×6$$ per trial)
 ### PPA
+### Aluminum foiL
+### Parafilm
 ### Balance (×1)
 ### Butter paper (×1)
 ### Measuring cylinder* (×1)
@@ -15,6 +17,10 @@ tags:
 ### Glass rod (×2)
 ### 250ml Conical flasks* (×6)
 ### 10ml syringe (×6)
+### Hemocytometer and cover slip (×1)
+### Micropipette (×1)
+### Micropipette tips (×6 per trial)
+### Test-tubes (×12 per trial)
 ## **Procedure**
 ### $$5g×6$$ of YPD broth was taken on a butter paper (measured using a balance) added to 600ml of water (measured using a measuring cylinder) and mixed with a glass rod until a clear yellow solution is formed
 ### $$5g×6$$ of _S. cerevisiae_ are taken in 6 beakers which have water heated to 40ºC
@@ -26,6 +32,15 @@ tags:
 ### Using a syringe, 10ml of water was poured into 1 conical flask
 ### 100ml of YPD broth was poured into each of the 6 conical flasks
 ### 100ml of the _S. cerevisiae_ solution was each added into the conical flask
-### 
-### Make final solution
-### Analysis
+### The conical flask was wrapped with aluminum foil and parafilm
+### The conical flask was incubated at RTP for 5 hours
+### The solution was tested using a colorimeter
+### The solution was tested using a spectrophotometer
+#### 
+### The solution was tested using a hemocytometer
+#### 1ml of each of the solutions in the conical flask was added to 9ml of water
+#### 1ml of methyline blue was added to 9ml of water
+#### 1ml of the _S. cerevisiae_ solution was added to 9ml of methyline blue solution to make the dilution factor of 100.
+#### The hemocytometer and cover slip was washed using distilled water and cleaned with 70% ethanol
+#### Using a micropipette a small amount of the yeast and methyline blue solution was added to the hemocytometer whihc was covered with a cover slip
+#### The hemocytometer is analysed under a microscope (40× zoom)
