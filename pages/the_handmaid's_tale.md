@@ -22,6 +22,8 @@ tags:
 ## Notes
 ### There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes.
 ## Location: [[Gilead]]
+## Important Characters
+### 
 ## **Motifs**
 *
 ## 1. Rape and sexual violence
