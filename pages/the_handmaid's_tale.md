@@ -12,7 +12,8 @@ tags:
    :END:
 
 ### [[https://www.sparknotes.com/lit/handmaid/][Spark Notes - The Handmaid's Tale]]
-## **Symbols**
+#
+## **Motifs**
 ## 1. Rape and sexual violence
 *
 #### SparkNotes
@@ -36,8 +37,9 @@ tags:
 ##### Martha is usually the domestic servants
 #### III: "We stood face to face for the first time five weeks ago, when I arrived at this posting. The Guardian from the previous posting brought me to the front door."
 ##### The Guardian implying the local police.
-##### This also suggests that the law supports and even sanctions these handmaids and stuff like that.
-## 3. 
+##### This also suggests that the law supports and even sanctions these handmaids and stuff like th
+## 3. Similarities between Reactionary and Feminist Ideologies
+3. 
 ## **Themes**
 
 *
