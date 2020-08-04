@@ -20,7 +20,7 @@ tags:
 ### Hemocytometer and cover slip (×1)
 ### Micropipette (×1)
 ### Micropipette tips (×6 per trial)
-### Test-tubes (×12 per trial)
+### Test-tubes* (×12 per trial)
 ## **Procedure**
 ### $$5g×6$$ of YPD broth was taken on a butter paper (measured using a balance) added to 600ml of water (measured using a measuring cylinder) and mixed with a glass rod until a clear yellow solution is formed
 ### $$5g×6$$ of _S. cerevisiae_ are taken in 6 beakers which have water heated to 40ºC
@@ -35,8 +35,12 @@ tags:
 ### The conical flask was wrapped with aluminum foil and parafilm
 ### The conical flask was incubated at RTP for 5 hours
 ### The solution was tested using a colorimeter
+#### 3ml of each of the solutions in the conical flask was added to 6 different cuvettes
+#### 3ml of distilled water was put into a cuvette and the colorimeter was blanked
 ### The solution was tested using a spectrophotometer
-#### 
+#### 3ml of each of the solutions in the conical flask was added to 6 different cuvettes
+#### 3ml of distilled water was put into a cuvette and the spectrophotometer was blanked
+#### Each of the solutions absorbance was noted
 ### The solution was tested using a hemocytometer
 #### 1ml of each of the solutions in the conical flask was added to 9ml of water
 #### 1ml of methyline blue was added to 9ml of water
