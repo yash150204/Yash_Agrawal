@@ -69,7 +69,7 @@ Mi
 ia said
 ### This shows that women with a sexual appetite + who can consummate and reproduce has "privilege" in the "priso
 ### "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that meant to behave like a sister."
-### "She wanted me to feel that I could not come into the house unless she said so."
+### "She wanted me to feel that I could not come into the house unle said so."
 #### 
 have like a sister."
 "
