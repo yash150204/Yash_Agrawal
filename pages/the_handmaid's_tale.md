@@ -23,7 +23,12 @@ tags:
 ### There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes.
 ## Location: [[Gilead]]
 ## Important Characters
-### 
+### [[Offred]]
+### [[The Commander]]
+### [[Serena Joy]]
+### [[Moira]]
+### [[Luke]]
+### [[Aunt Lydia]]
 ## **Motifs**
 *
 ## 1. Rape and sexual violence
@@ -45,8 +50,10 @@ tags:
 ###### Though she is venerated as a figure of maturity and strength, it is quite ironical that she is used to represent the domestic servants, who are, in a theocracy a symbol of weakness and lack any power what-so-ever.
 #### I: Night - “specially picked from the Angels”.
 ##### Angles refer to soldiers from the Army and are called "objects" to enforce "fear".
-#### II: Shopping - "She’s in her usual Martha’s dress"
-##### Martha is usually the domestic servants
+#### II: Shopping - "She’s in her usual Martha’s d
+##### Martha is usually the domestic servants.
+##### They have out grown their fertility and have their "tubes tied"
+vants
 #### III: "We stood face to face for the first time five weeks ago, when I arrived at this posting. The Guardian from the previous posting brought me to the front door."
 ##### The Guardian implying the local police.
 ##### This also suggests that the law supports and even sanctions these handmaids and stuff like 
@@ -109,8 +116,9 @@ ia said
 ### "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that mean
 ### "She wanted me to feel that I could not come into the house unless she said so."
 ### "She then was a woman who might bend the rules. But what did I
-have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbidden.
-#### This may come under ((5f27b15d-8256-4789-83b2-63fe0f34af88)) 
+have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbid
+#### This may come under ((5f27b15d-8256-4789-83b2-63fe0f34af88))
+8)) 
  
  house unle said so."
 #### 
