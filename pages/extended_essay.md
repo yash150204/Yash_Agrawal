@@ -22,7 +22,6 @@ tags:
 #### **Wavelength**:​ 570nm
 #### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
 ### 7. Repeat the process for 15%, 25%, 35%, 50% seaweed solution
-### 
 ## Apparatus and Chemicals
 ### 2 beakers, 100 ml
 ### Beaker, 400 ml
@@ -39,3 +38,6 @@ tags:
 ### Protein source (cottage cheese or curds from Experiment No. 1)
 ### Protease
 ### Ninhydrin solution
+## Variables
+|Depend Variables||Change in concentration of seaweed|
+|Independent Variables||(1) Rate of digestion of albumin (2) absorbance (measured using ninhydrin colourimetry)|
