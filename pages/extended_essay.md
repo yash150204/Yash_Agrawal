@@ -7,6 +7,22 @@ tags:
 ### [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
+### 1. Make a 10g\L protein mixture by dissolving casein (Sigma) in water
+### 2. Make a saturated protease solution by adding 0.5 g of powder protease to 1 litre of water.
+### 3. Spin the solution in a centrifuge to separate the undissolved powder. Keep the supernatant.
+### 4. Mix equal volumes of protein solution and protease solution obtained in Step 1 and Step 2. Note the time at the start of the hydrolysis reaction.
+### 5. Add half the volume of 5% crushed seaweed solution.
+### 6. Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
+#### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
+#### **Chemical process**
+###### 1. alpha-amino acid + ninhydrin -> reduced ninhydrin + alpha-amino acid + H2O
+###### 2. alpha-amino acid + H2O -> alpha-keto acid + NH3
+###### 3. alpha-keto acid + NH3 -> aldehyde + CO2
+#### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
+#### **Wavelength**:​ 570nm
+#### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
+### 7. Repeat the process for 15%, 25%, 35%, 50% seaweed solution
+### 
 ## Apparatus and Chemicals
 ### 2 beakers, 100 ml
 ### Beaker, 400 ml
