@@ -38,6 +38,4 @@ tags:
 ### Protein source (cottage cheese or curds from Experiment No. 1)
 ### Protease
 ### Ninhydrin solution
-## Variables
-|Depend Variables||Change in concentration of seaweed|
-|Independent Variables||(1) Rate of digestion of albumin (2) absorbance (measured using ninhydrin colourimetry)|
+## 
