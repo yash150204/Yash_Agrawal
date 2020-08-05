@@ -15,16 +15,7 @@ tags:
    :END:
 
 ### [[https://www.sparknotes.com/lit/handmaid/][Spark Notes - The Handmaid's Tale]]
-## Notes
-### There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes.
 ## Location: [[Gilead]]
-## Important Characters
-### [[Offred]]
-### [[The Commander]]
-### [[Serena Joy]]
-### [[Moira]]
-### [[Luke]]
-### [[Aunt Lydia]]
 ## **Motifs**
 ## 1. Rape and sexual violence
 #### SparkNotes
@@ -97,12 +88,12 @@ es
 ### "She then was a woman who might bend the rules. But what did I
 have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbid
 #### This may come under ((5f27b15d-8256-4789-83b2-63fe0f34af88))
-8)) 
- 
- house unle said so."
-#### have like a sister."
-"
-at-so-ever.
-er.
- a tool of massacre and is manipulated
-##
+# Notes
+## There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes.
+# Important Characters
+## [[Offred]]
+## [[The Commander]]
+## [[Serena Joy]]
+## [[Moira]]
+## [[Luke]]
+## [[Aunt Lydia]]
