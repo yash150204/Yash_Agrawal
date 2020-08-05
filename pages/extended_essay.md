@@ -39,10 +39,12 @@ tags:
 ### Protease
 ### Ninhydrin solution
 ## **Control Variables**
-|Control Variable||Why Control?||How controlled?|
-|(1) No activator present||Activators are molecules that bind to _enzymes_ and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation||As the test was carried out _in-vitro_ no additional activators or inhibitors were added|
-|(2) Concentration of enzymes||To test the effect of iodine in isolation||A bulk solution ofenzymes was created, from which the tests were carried out from|
-## Test
-|Name | Value|
-|-------|-------------------|
-|Lol|lol|
+## (1) No activator present
+## Activators are molecules that bind to enzymes and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation
+## As the test was carried out _in-vitro_ no additional activators or inhibitors were added
+## (2) Concentration of enzymes
+## To test the effect of iodine in isolation
+## A bulk solution of enzymes was created, from which the tests were carried out from
+## (3) Concentration of albumin
+## To test the effect of iodine in isolation
+## A bulk solution of albumin was created, from which the tests were carried out from
