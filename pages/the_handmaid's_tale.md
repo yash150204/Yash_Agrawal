@@ -2,11 +2,7 @@
 title: The Handmaid's Tale
 tags:
 ---
-## Book
-### 
-#
 ## Repository of useful quotes + other notes
-## 
 ## [[School Notes]]
 ### Links
 #### [Margaret Atwood on How She Came to Write _The Handmaid’s Tale_](https://lithub.com/margaret-atwood-on-how-she-came-to-write-the-handmaids-tale/)
@@ -30,14 +26,11 @@ tags:
 ### [[Luke]]
 ### [[Aunt Lydia]]
 ## **Motifs**
-*
 ## 1. Rape and sexual violence
-*
 #### SparkNotes
 ##### Sexual violence, particularly against women, pervades _The Handmaid’s Tale._ The prevalence of rape and pornography in the pre-Gilead world justified to the founders their establishment of the new order. The Commander and the Aunts claim that women are better protected in Gilead, that they are treated with respect and kept safe from violence. Certainly, the official penalty for rape is terrible: in one scene, the Handmaids tear apart with their bare hands a supposed rapist (actually a member of the resistance). Yet, while Gilead claims to suppress sexual violence, it actually institutionalizes it, as we see at Jezebel’s, the club that provides the Commanders with a ready stable of prostitutes to service the male elite. Most important, sexual violence is apparent in the central institution of the novel, the Ceremony, which compels Handmaids to have sex with their Commanders.
 #### I: Night - Narrator: Offred - "I remember that yearning, for something that was always about to happen and was never the same as the hands that were on us there and then, in the small of the back, or out back, in the parking lot, or in the television room with the sound turned down and only the pictures flickering over lifting flesh."
-##### Description of sexual exploitation. These people are probably some type of sex workers or something
-#
+###### Description of sexual exploitation. These people are probably some type of sex workers or something
 ## 2. Religious terms and biblical allusions used for Political Purpose
 #### SparkNotes
 ##### Gilead is a theocracy—a government in which there is no separation between state and religion—and its official vocabulary incorporates religious terminology and biblical references.
@@ -67,11 +60,7 @@ vants
 es
 3. 
 ## **Themes**
-
-*
-## 1. Language as a tool of power
-**
-a tool of power**
+## 1. Language as a tool of power a tool of power
 ##### I: Night - “There must have been a chandelier, once. They’ve removed anything you could t
 ###### This gives out a vibe which is that "you can't even kill yourself". YOU do not have any righ
 ## 2. Womens bodies as a political instrument
@@ -92,26 +81,16 @@ a tool of power**
 . Seeing
 ## 6. Reproduction
 ## **Symbolism and color**
-lism an
-## Red
-*
 ### Red
 #### Symbolise the handmaid, and suggests the presence of mensural blood.
 #### Symbol of fertility, and the symbol associated with the Vi
-## Blue
 ### Blue
 #### Color of royalty and the
 #### Depicts a cold nature. Especially the cold nature of the wives towards the handmaids
 ##### "Not so her eyes, which were the flat hostile blue of a midsummer sky in bright sunlight, a blue that shuts you out."
-w
 ## **Misc quotes**
-e handmaids
-## Misc quotes
-Mi
-### “Where I am is not a prison but a privilege, as Aunt Lydia said��
+### “Where I am is not a prison but a privilege, as Aunt Lydia said"
 #### This idea is repeated in the III rd chapter
- 
-ia said
 ### This shows that women with a sexual appetite + who can consummate and reproduce has "privilege" in the "priso
 ### "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that mean
 ### "She wanted me to feel that I could not come into the house unless she said so."
@@ -121,8 +100,7 @@ have, to trade? I looked at the cigarette with longing. For me, like liquor and 
 8)) 
  
  house unle said so."
-#### 
-have like a sister."
+#### have like a sister."
 "
 at-so-ever.
 er.
