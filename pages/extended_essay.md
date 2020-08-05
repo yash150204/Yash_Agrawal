@@ -11,8 +11,9 @@ tags:
 ### 2. Make a saturated protease solution by adding 0.5 g of powder protease to 1 litre of water.
 ### 3. Spin the solution in a centrifuge to separate the undissolved powder. Keep the supernatant.
 ### 4. Mix equal volumes of protein solution and protease solution obtained in Step 1 and Step 2. Note the time at the start of the hydrolysis reaction.
-### 5. Add half the volume of 5% crushed seaweed solution.
-### 6. Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
+### 
+### Add half the volume of 5% crushed seaweed solution.
+### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
 #### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
 #### **Chemical process**
 ###### 1. alpha-amino acid + ninhydrin -> reduced ninhydrin + alpha-amino acid + H2O
