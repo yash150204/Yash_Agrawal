@@ -15,23 +15,6 @@ tags:
    :END:
 
 ### [[https://www.sparknotes.com/lit/handmaid/][Spark Notes - The Handmaid's Tale]]
-## **Symbolism and color**
-### Red
-#### Symbolise the handmaid, and suggests the presence of mensural blood.
-#### Symbol of fertility, and the symbol associated with the Vi
-### Blue
-#### Color of royalty and the
-#### Depicts a cold nature. Especially the cold nature of the wives towards the handmaids
-##### "Not so her eyes, which were the flat hostile blue of a midsummer sky in bright sunlight, a blue that shuts you out."
-## **Misc quotes**
-### “Where I am is not a prison but a privilege, as Aunt Lydia said"
-#### This idea is repeated in the III rd chapter
-### This shows that women with a sexual appetite + who can consummate and reproduce has "privilege" in the "priso
-### "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that mean
-### "She wanted me to feel that I could not come into the house unless she said so."
-### "She then was a woman who might bend the rules. But what did I
-have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbid
-#### This may come under ((5f27b15d-8256-4789-83b2-63fe0f34af88))
 # Notes
 ## There was something that Ithought. There is a high lack of context in the book in the start... but this actually fades as you do some wider reading on SparkNotes.
 # Important Characters
@@ -97,3 +80,20 @@ es
 ### _The Handmaid’s Tale_ draws on the feminist idea that in a male-dominated society, the way men look at women is a form of control and even violence. Offred’s “white wings” (Chapter 2) severely limit her own ability to see. Meanwhile she constantly feels observed—and threatened—by eyes. She sees the patch of plaster in her bedroom ceiling as a “blind plaster eye” and the convex mirror on the stairs as a “fisheye” (Chapter 17). The secret police of the Gileadean regime are known as the “Eyes,” and their emblem, a winged eye, is painted everywhere. Offred thinks of these eyes as male, even comparing eyes to penises and penises to eyes, for instance when she describes the Commander’s penis as a “stalked slug’s eye” (Chapter 15). However, while the novel endorses a feminist concept of the way men look at women, it also warns that feminist concepts alone don’t offer protection from male domination. The only character who outright states the idea that the way men look at women can be a form of violence is Aunt Lydia. “To be seen—to be _seen_—is to be—her voice trembled—penetrated.” (Ch. 5). Aunt Lydia’s quote suggests that even feminist concepts can be co-opted and used to oppress women.
 . Seeing
 # 6. Reproduction
+# **Symbolism and color**
+## Red
+### Symbolise the handmaid, and suggests the presence of mensural blood.
+### Symbol of fertility, and the symbol associated with the Vi
+## Blue
+### Color of royalty and the
+### Depicts a cold nature. Especially the cold nature of the wives towards the handmaids
+#### "Not so her eyes, which were the flat hostile blue of a midsummer sky in bright sunlight, a blue that shuts you out."
+# **Misc quotes**
+## “Where I am is not a prison but a privilege, as Aunt Lydia said"
+### This idea is repeated in the III rd chapter
+## This shows that women with a sexual appetite + who can consummate and reproduce has "privilege" in the "priso
+## "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that mean
+## "She wanted me to feel that I could not come into the house unless she said so."
+## "She then was a woman who might bend the rules. But what did I
+have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbid
+### This may come under ((5f27b15d-8256-4789-83b2-63fe0f34af88))
