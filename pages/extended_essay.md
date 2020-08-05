@@ -38,19 +38,21 @@ tags:
 ### Protein source (cottage cheese or curds from Experiment No. 1)
 ### Protease
 ### Ninhydrin solution
+## Dependent variable: Rate of digestion and absorbance (using ninhydrin colorimetry)
 ## **Control Variables**
 ### (1) No activator present
-### Activators are molecules that bind to enzymes and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation
-### As the test was carried out _in-vitro_ no additional activators or inhibitors were added
+#### Activators are molecules that bind to enzymes and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation
+#### As the test was carried out _in-vitro_ no additional activators or inhibitors were added
 ### (2) Concentration of enzymes
-### To test the effect of iodine in isolation
-### A bulk solution of enzymes was created, from which the tests were carried out from
+#### To test the effect of iodine in isolation
+#### A bulk solution of enzymes was created, from which the tests were carried out from
 ### (3) Concentration of albumin
-### To test the effect of iodine in isolation
-### A bulk solution of albumin was created, from which the tests were carried out from
+#### To test the effect of iodine in isolation
+#### A bulk solution of albumin was created, from which the tests were carried out from
 ### (4)  pH of reaction
-### Enzymes are pH sensitive, hence the pH needs to be maintained low.
-### 1ml 1 Molar HCl was added to the solution to maintain the pH at 1
+#### Enzymes are pH sensitive, hence the pH needs to be maintained low.
+#### 1ml 1 Molar HCl was added to the solution to maintain the pH at 1
 ### (5) Temperature at which the reaction is carried out
-### Enzymes are temperature sensitive, which enhances its performance
-### The reaction is coznducted in a incubator at a temperature of 37ºC
+#### Enzymes are temperature sensitive, which enhances its performance
+#### The reaction is conducted in a incubator at a temperature of 37ºC
+### 
