@@ -15,11 +15,6 @@ tags:
    :END:
 
 ### [[https://www.sparknotes.com/lit/handmaid/][Spark Notes - The Handmaid's Tale]]
-## 5. Seeing
-### SparkNotes
-#### _The Handmaid’s Tale_ draws on the feminist idea that in a male-dominated society, the way men look at women is a form of control and even violence. Offred’s “white wings” (Chapter 2) severely limit her own ability to see. Meanwhile she constantly feels observed—and threatened—by eyes. She sees the patch of plaster in her bedroom ceiling as a “blind plaster eye” and the convex mirror on the stairs as a “fisheye” (Chapter 17). The secret police of the Gileadean regime are known as the “Eyes,” and their emblem, a winged eye, is painted everywhere. Offred thinks of these eyes as male, even comparing eyes to penises and penises to eyes, for instance when she describes the Commander’s penis as a “stalked slug’s eye” (Chapter 15). However, while the novel endorses a feminist concept of the way men look at women, it also warns that feminist concepts alone don’t offer protection from male domination. The only character who outright states the idea that the way men look at women can be a form of violence is Aunt Lydia. “To be seen—to be _seen_—is to be—her voice trembled—penetrated.” (Ch. 5). Aunt Lydia’s quote suggests that even feminist concepts can be co-opted and used to oppress women.
-. Seeing
-## 6. Reproduction
 ## **Symbolism and color**
 ### Red
 #### Symbolise the handmaid, and suggests the presence of mensural blood.
@@ -97,3 +92,8 @@ es
 # 4. Complicaity
 ## SparkNotes
 ### _The Handmaid’s Tale_ explores the ways in which ordinary people become complicit in the appalling acts of a totalitarian regime. Although the novel’s women are all to some extent victims of the Gileadean state, many of them choose complicity rather than rebellion. Serena Joy is miserable and has very little freedom, but she enjoys and exploits the power she wields over Offred. More seriously, the Aunts are not just complicit in the regime’s crimes: they are amongst the novel’s worst perpetrators, responsible for torture and psychological abuse. Offred’s place on the spectrum of complicity is ambiguous. She hates and fears the regime, and does not believe in its values. Being true to her own beliefs would require her to rebel, but she does not. Instead she accepts her role without complaint. Even in her own head she refuses to call the Ceremony “rape,” because “nothing is going on here that I haven’t signed up for” (Chapter 16). Offred’s choices invite us to wonder where passivity ends and complicity begins.
+# 5. Seeing
+## SparkNotes
+### _The Handmaid’s Tale_ draws on the feminist idea that in a male-dominated society, the way men look at women is a form of control and even violence. Offred’s “white wings” (Chapter 2) severely limit her own ability to see. Meanwhile she constantly feels observed—and threatened—by eyes. She sees the patch of plaster in her bedroom ceiling as a “blind plaster eye” and the convex mirror on the stairs as a “fisheye” (Chapter 17). The secret police of the Gileadean regime are known as the “Eyes,” and their emblem, a winged eye, is painted everywhere. Offred thinks of these eyes as male, even comparing eyes to penises and penises to eyes, for instance when she describes the Commander’s penis as a “stalked slug’s eye” (Chapter 15). However, while the novel endorses a feminist concept of the way men look at women, it also warns that feminist concepts alone don’t offer protection from male domination. The only character who outright states the idea that the way men look at women can be a form of violence is Aunt Lydia. “To be seen—to be _seen_—is to be—her voice trembled—penetrated.” (Ch. 5). Aunt Lydia’s quote suggests that even feminist concepts can be co-opted and used to oppress women.
+. Seeing
+# 6. Reproduction
