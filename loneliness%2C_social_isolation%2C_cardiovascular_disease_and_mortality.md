@@ -26,5 +26,10 @@ tags:
 #### CI = 1.10-1.35
 ## "Loneliness and social isolation are more common with increasing age due to factors including reduced mobility, impaired speech or hearing, cognitive decline, loss of social networks, fragmentation of families, greater ill health and limited financial resources"
 ### I felt that the "fragmentations of families part" can also be used for [[Hindi]] IOC
-## Concequnces of ((5f2c0b67-98d8-4a4d-a13a-be8f6de4c7ac)) could be depression. dementia + ^^ multimorbidity^^
-### They come under the broad term called **morbity**
+## Concequnces of ((5f2c0b67-98d8-4a4d-a13a-be8f6de4c7ac)) could be depression. dementia + [[multimorbidity]]
+### They come under the broad term called **morbity**, which broadly refers to 'illness' or 'diseases'.
+### This is a term used in clinical practice and in health policy documents.
+### Comorbidity simply means more than one illness or disease occurring in one person at the same time and multimorbidity means more than two illnesses or diseases occurring in the same person at the same time.
+### This statement prompted a question, "**is there a difference between illness and diseases?**
+#### Illness is something that needs to be managed such as feelings of pain, discomfort, distress, weakness, fatigue, etc. Disease is something that needs to be cured. Obviously, these two things are not mutually exclusive, and they often occur together.
+### 
