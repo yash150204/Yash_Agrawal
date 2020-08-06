@@ -27,10 +27,8 @@ tags:
 ### Add 25ml of ____ (seaweed) solution
 ### Add half the volume of 5% crushed seaweed solution.
 #### TODO How will you be getting the seaweed?
-#### NOW Genus + Species?
-
-
-#### [[DONE]]
+#### TODO Genus + Species?
+##### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
 ### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
 #### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
 #### **Chemical process**
