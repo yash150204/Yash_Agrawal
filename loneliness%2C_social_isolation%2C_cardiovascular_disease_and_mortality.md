@@ -1,5 +1,5 @@
 ---
-title: Loneliness, social isolation, cardiovascular disease and mortality
+title: ARTICLE - Loneliness, social isolation, cardiovascular disease and mortality
 tags:
 ---
 
