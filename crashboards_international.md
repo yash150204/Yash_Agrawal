@@ -4,12 +4,13 @@ tags:
 ---
 ## **MEETING's LOG**
 ### [[Au
-## [[Aug 3rd, 2020]] 5pm
+### [[Aug 3rd, 2020]] 5pm
  728 5342 5357
 #### Password: 657554
 ### 2 me
-## 2 meetings on [[Aug 4th, 2020]] before pitch
-## Meeting on [[Aug 5th, 2020]] 
+### 2 meetings on [[Aug 4th, 2020]] before pitch
+### Meeting on [[Aug 5th, 2020]]
+## [[CrashIGCSE WEBSITE]]
 of their home.
 #### As. you must you have realised by now, our business in its entirety is optimised and enabled by technology. For all, the facets of CrashBoards, we need websites, and we really need them fast for which we have approached you.
 .
