@@ -12,8 +12,8 @@ tags:
 ### TODO Make Procedure suitable to your experiment
 ### TODO Effect of thyroxine on the rate of digestion
 ### TODO The control experiment
-### Make a 10g\L protein mixture by dissolving casein (Sigma) in water
-### Make a saturated trypsin solution by adding 0.5 g of powder protease to 1 litre of water.
+### Make a 100g\L protein mixture by dissolving casein (Sigma) in water
+### Make a saturated **trypsin** solution by adding 0.5 g of powder trpsin to 1 litre of water.
 #### Why trypsin? From [this](https://www.jbc.org/content/49/2/343.full.pdf) research paper
 #### [[https://cdn.logseq.com/%2F240555e0-d70c-43d3-8acf-e4c746692cd92020_08_06_Screenshot%202020-08-06%20at%2010.33.34%20AM.png?Expires=4750281233&Signature=GzCtHflImWq7EmQNd4nQlWx4vUeXeKbSyV9o22zIqlkvGBcn3EUFD6IiMD9~QObgCgXBs12Zy~BlB3pkEk8W1z0eKdIcYfC85kX~d3ejokVG99zGvW6DZPw-FPMDJVdcmXnAT0SDWHmMJ6aAz84if5NuoBYi4WGZ57Ge-PZ3HJB9eZv4xRisguiTGyubl0J~uVHyNw0T09055sP3YcypgDfJCAuu1avvYrK44-Zk0PZamZeIf5vHR2Uw2h~FuFwf8KYbG49ieeMLRmZGp3sIQ5Xo89fOd9d0Jy75oUJ93nFCWLhNNFTn4WgsluSEX6RGsd7vCcTIXJg7skExmaNi6A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_06_Screenshot 2020-08-06 at 10.33.34 AM.png]]
 #### The gradient for trypsin the greatest, and hence this conclusion
