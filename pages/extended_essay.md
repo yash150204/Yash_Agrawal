@@ -9,6 +9,8 @@ tags:
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
 ### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][**Sample EE** - How do different Nitrogen-Phosphorus-Potassium (NPK) ratios (1:1:1, 2:1:1, 2:2:1 and water) in aqueous fertilisers affect growth (as measured through a mitotic index) of the onion (Allium cepa), over a 5- week period, in a hydroponics set up?]]
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
+### DONE Check availability of casein. **NOT AVAILABLE**
+
 ### TODO Make Procedure suitable to your experiment
 ### TODO Effect of thyroxine on the rate of digestion
 ### TODO The control experiment
@@ -17,14 +19,15 @@ tags:
 #### Why trypsin? From [this](https://www.jbc.org/content/49/2/343.full.pdf) research paper
 #### [[https://cdn.logseq.com/%2F240555e0-d70c-43d3-8acf-e4c746692cd92020_08_06_Screenshot%202020-08-06%20at%2010.33.34%20AM.png?Expires=4750281233&Signature=GzCtHflImWq7EmQNd4nQlWx4vUeXeKbSyV9o22zIqlkvGBcn3EUFD6IiMD9~QObgCgXBs12Zy~BlB3pkEk8W1z0eKdIcYfC85kX~d3ejokVG99zGvW6DZPw-FPMDJVdcmXnAT0SDWHmMJ6aAz84if5NuoBYi4WGZ57Ge-PZ3HJB9eZv4xRisguiTGyubl0J~uVHyNw0T09055sP3YcypgDfJCAuu1avvYrK44-Zk0PZamZeIf5vHR2Uw2h~FuFwf8KYbG49ieeMLRmZGp3sIQ5Xo89fOd9d0Jy75oUJ93nFCWLhNNFTn4WgsluSEX6RGsd7vCcTIXJg7skExmaNi6A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_06_Screenshot 2020-08-06 at 10.33.34 AM.png]]
 #### The gradient for trypsin the greatest, and hence this conclusion
-### Mix equal volumes of protein solution and protease solution obtained in Step 1 and Step 2.
-### Add 1 Molar HCl in the HCl:trypsin ratio 1:5
-#### The ratio is from [this]() video
+### Mix 50ml of trypsin solution and 50ml of casein solution
+### Add 10ml of 1 molar HCl
+#### The ratio is from [this](https://www.youtube.com/watch?v=_BPEuLcR4_I) video
 ### Note the time at the start of the hydrolysis reaction.
 ### TODO Thyroxine addition
 ### Add half the volume of 5% crushed seaweed solution.
 #### TODO How will you be getting the seaweed?
 #### TODO Genus + Species?
+#### [[DONE]]
 ### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
 #### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
 #### **Chemical process**

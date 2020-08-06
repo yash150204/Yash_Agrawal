@@ -94,6 +94,5 @@ es
 ## This shows that women with a sexual appetite + who can consummate and reproduce has "privilege" in the "priso
 ## "The Marthas are not supposed to fraternize with us. Fraternize means to behave like a brother. Luke told me that. He said there was no corresponding word that mean
 ## "She wanted me to feel that I could not come into the house unless she said so."
-## "She then was a woman who might bend the rules. But what did I
-have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbid
+## "She then was a woman who might bend the rules. But what did I have, to trade? I looked at the cigarette with longing. For me, like liquor and coffee, they are forbid
 ### This may come under ((5f27b15d-8256-4789-83b2-63fe0f34af88))
