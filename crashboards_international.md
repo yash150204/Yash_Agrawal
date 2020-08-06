@@ -29,8 +29,9 @@ tags:
 ##### For comparison, our daily cost is half. the hourly cost of professional tutors
 #### Our sessions would occur virtually during the months of June and December, aimed at students giving their board exams in the next 5-6 months.
 #### The IGCSE branch of CrashBoards is inventively named CrashIGCSE, and the IBDP branch of CrashBoards will be CrashBacculureate.
-##### If you are familiar with the IBDP, there are several facets of the diploma, such as the individual assessment and extended essay which we plan to offer aid on.
-#### We have designed our business model to facilitate the online collaboration of tutors and students who require a quick revision or guidance to boost their scores in a short span of time during their summer or winter breaks.
+##### If
+##### If you are familiar with the IBDP, there are several facets of the diploma, such as the individual assessment and EE which we plan to offer aid on.
+have designed our business model to facilitate the online collaboration of tutors and students who require a quick revision or guidance to boost their scores in a short span of time during their summer or winter breaks.
 #### We **do not** offer our courses to **teach** students, but rather offer our courses to **rigorously assess and challenge their existing knowledge about a subject** pushing it to new boundaries through a series of question papers, quizzes etc. We obviously also cover the 'challenging topics', but theoretical knowledge is given second priority in comparison to practical application of the concept.
 #### Duration of course
 ##### At CrashBoards we understand that every teacher has his/her own style of educating, and it would be waste of talent to push an educator to complete his/her teaching in a set time frame. Keeping respect of this very fact, the duration of each subject within a course will vary, and will depend on the tutor.
