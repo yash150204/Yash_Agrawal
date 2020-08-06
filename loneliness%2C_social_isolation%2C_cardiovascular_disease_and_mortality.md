@@ -32,4 +32,7 @@ tags:
 ### Comorbidity simply means more than one illness or disease occurring in one person at the same time and multimorbidity means more than two illnesses or diseases occurring in the same person at the same time.
 ### This statement prompted a question, "**is there a difference between illness and diseases?**
 #### Illness is something that needs to be managed such as feelings of pain, discomfort, distress, weakness, fatigue, etc. Disease is something that needs to be cured. Obviously, these two things are not mutually exclusive, and they often occur together.
+## In part, research has been hampered by the fact that these are often examined together rather than as two independent processes.
+### This the classic case where you should have taken _ceteris paribus_, analysing each of this together.
+### This is also the fact that there might be a bias where the researchers assume that isolation and social isolation is one or the same, or even very closely related.
 ### 
