@@ -3,11 +3,15 @@ title: Crashboards International
 tags:
 ---
 ## **MEETING's LOG**
-### [[Aug 3rd, 2020]] 5pm
-#### Id: 728 5342 5357
+### [[Au
+## [[Aug 3rd, 2020]] 5pm
+ 728 5342 5357
 #### Password: 657554
-### 2 meetings on [[Aug 4th, 2020]] before pitch
-## **Sta---
+### 2 me
+## 2 meetings on [[Aug 4th, 2020]] before pitch -> Waxdale did not show up
+## Meeting on [[Aug 5th, 2020]] before pitch
+## 
+---
 title: Crashboards International
 tags:
 ---
