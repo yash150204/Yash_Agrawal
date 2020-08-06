@@ -9,36 +9,35 @@ tags:
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
 ### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][**Sample EE** - How do different NPK ratios in aqueous fertilisers affect growth of the onion, over a 5- week period, in a hydroponics set up?]]
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
-### DONE Check availability of casein. **NOT AVAILABLE**
-### TODO Make Procedure suitable to your experiment
-### TODO Experiment - Effect of thyroxine on the rate of digestion
-### TODO Experiment - The control experiment
-### Make a 100g\L protein mixture by dissolving casein (Sigma) in water
-### Make a 5g/L saturated **trypsin** solution
-#### Why trypsin? From [this](https://www.jbc.org/content/49/2/343.full.pdf) research paper
-#### [[https://cdn.logseq.com/%2F240555e0-d70c-43d3-8acf-e4c746692cd92020_08_06_Screenshot%202020-08-06%20at%2010.33.34%20AM.png?Expires=4750281233&Signature=GzCtHflImWq7EmQNd4nQlWx4vUeXeKbSyV9o22zIqlkvGBcn3EUFD6IiMD9~QObgCgXBs12Zy~BlB3pkEk8W1z0eKdIcYfC85kX~d3ejokVG99zGvW6DZPw-FPMDJVdcmXnAT0SDWHmMJ6aAz84if5NuoBYi4WGZ57Ge-PZ3HJB9eZv4xRisguiTGyubl0J~uVHyNw0T09055sP3YcypgDfJCAuu1avvYrK44-Zk0PZamZeIf5vHR2Uw2h~FuFwf8KYbG49ieeMLRmZGp3sIQ5Xo89fOd9d0Jy75oUJ93nFCWLhNNFTn4WgsluSEX6RGsd7vCcTIXJg7skExmaNi6A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_06_Screenshot 2020-08-06 at 10.33.34 AM.png]]
-#### The gradient for trypsin the greatest, and hence this conclusion
-### Mix 50ml of trypsin solution and 50ml of casein solution
-### Add 10ml of 1 molar HCl
-#### The ratio is from [this](https://www.youtube.com/watch?v=_BPEuLcR4_I) video
-### Note the time at the start of the hydrolysis reaction.
-### Add
-### Add 25ml of ____ 5% (seaweed) solution
-#### 5g of seaweed powder will be added to 100ml of water to create a 5% seaweed solution
-### Add half the volume of 5% crushed seaweed solution.
-#### DONE How will you be getting the seaweed?
-##### Lazada + Local store
-#### DONE Genus + Species?
-##### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
-### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
-#### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
-#### **Chemical process**
-###### 1. alpha-amino acid + ninhydrin -> reduced ninhydrin + alpha-amino acid + H2O
-###### 2. alpha-amino acid + H2O -> alpha-keto acid + NH3
-###### 3. alpha-keto acid + NH3 -> aldehyde + CO2
-#### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
-#### **Wavelength**:​ 570nm
-#### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
+## DONE Check availability of casein. **NOT AVAILABLE**
+## TODO Make Procedure suitable to your experiment
+## TODO Experiment - Effect of thyroxine on the rate of digestion
+## TODO Experiment - The control experiment
+## Make a 100g\L protein mixture by dissolving albumin in water
+## TODO Which enzyme?
+## Make a 5g/L saturated ___ solution
+## Mix 50ml of ___ solution and 50ml of ___ solution
+## Add 10ml of 1 molar HCl
+### The ratio is from [this](https://www.youtube.com/watch?v=_BPEuLcR4_I) video
+## Note the time at the start of the hydrolysis reaction.
+
+## Add 25ml of ____ 5% (seaweed) solution
+### 5g of seaweed powder will be added to 100ml of water to create a 5% seaweed solution
+## Add half the volume of 5% crushed seaweed solution.
+### DONE How will you be getting the seaweed?
+#### Lazada + Local store
+### DONE Genus + Species?
+#### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
+## Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
+### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
+### **Chemical process**
+##### 1. alpha-amino acid + ninhydrin -> reduced ninhydrin + alpha-amino acid + H2O
+##### 2. alpha-amino acid + H2O -> alpha-keto acid + NH3
+##### 3. alpha-keto acid + NH3 -> aldehyde + CO2
+### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
+### **Wavelength**:​ 570nm
+### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
+d
 ### Repeat the process for 15%, 25%, 35%, 50% seaweed solution
 
 ## Apparatus and Chemicals
