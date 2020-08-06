@@ -6,12 +6,16 @@ tags:
 ## Useful Links
 ### [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
+### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][Sample EE - How do different Nitrogen-Phosphorus-Potassium (NPK) ratios (1:1:1, 2:1:1, 2:2:1 and water) in aqueous fertilisers affect growth (as measured through a mitotic index) of the onion (Allium cepa), over a 5- week period, in a hydroponics set up?]] 
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
+### TODO Make Procedure suitable to your experiment
+### 
 ### TODO Effect of thyroxine on the rate of digestion
-### 1. Make a 10g\L protein mixture by dissolving casein (Sigma) in water
-### 2. Make a saturated protease solution by adding 0.5 g of powder protease to 1 litre of water.
-### 3. Spin the solution in a centrifuge to separate the undissolved powder. Keep the supernatant.
-### 4. Mix equal volumes of protein solution and protease solution obtained in Step 1 and Step 2. Note the time at the start of the hydrolysis reaction.
+### TODO The control experiment
+### Make a 10g\L protein mixture by dissolving casein (Sigma) in water
+### Make a saturated protease solution by adding 0.5 g of powder protease to 1 litre of water.
+### Spin the solution in a centrifuge to separate the undissolved powder. Keep the supernatant.
+### Mix equal volumes of protein solution and protease solution obtained in Step 1 and Step 2. Note the time at the start of the hydrolysis reaction.
 ### TODO Thyroxine addition
 ### Add half the volume of 5% crushed seaweed solution.
 #### TODO How will you be getting the seaweed?
@@ -25,7 +29,7 @@ tags:
 #### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
 #### **Wavelength**:​ 570nm
 #### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
-### 7. Repeat the process for 15%, 25%, 35%, 50% seaweed solution
+### Repeat the process for 15%, 25%, 35%, 50% seaweed solution
 ## Apparatus and Chemicals
 ### 2 beakers, 100 ml
 ### Beaker, 400 ml
@@ -59,4 +63,6 @@ tags:
 ### (5) Temperature at which the reaction is carried out
 #### Enzymes are temperature sensitive, which enhances its performance
 #### The reaction is conducted in a incubator at a temperature of 37ºC
-### 
+## STUFF TO DO
+### TODO The multiple experiment stuff
+### TODO Hypothesis
