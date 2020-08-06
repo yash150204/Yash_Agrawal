@@ -12,8 +12,8 @@ tags:
 ### DONE Check availability of casein. **NOT AVAILABLE**
 
 ### TODO Make Procedure suitable to your experiment
-### TODO Effect of thyroxine on the rate of digestion
-### TODO The control experiment
+### TODO Experiment - Effect of thyroxine on the rate of digestion
+### TODO Experiment - The control experiment
 ### Make a 100g\L protein mixture by dissolving casein (Sigma) in water
 ### Make a 5g/L saturated **trypsin** solution 
 #### Why trypsin? From [this](https://www.jbc.org/content/49/2/343.full.pdf) research paper
