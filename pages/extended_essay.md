@@ -15,7 +15,9 @@ tags:
 ### TODO Experiment - The control experiment
 ### Make a 100g\L protein mixture by dissolving albumin in water
 ### TODO Which enzyme?
-### Make a 5g/L saturated ___ solution
+### Make a 5g/L saturated pepsin solution
+#### Why not trypsin and not pepsin?
+#### Pepsin is an enzyme that acts in the stomach, and is a stomach acid. Trypsin in a pancreatic enzyme that is secreted by the pancreases and is something that acts in the small intestine.
 ### Mix 50ml of ___ solution and 50ml of ___ solution
 ### Add 10ml of 1 molar HCl#### The ratio is from [this](https://www.youtube.com/watch?v=_BPEuLcR4_I) video
 ### Note the time at the start of the hydrolysis reaction.
