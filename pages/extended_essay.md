@@ -1,4 +1,3 @@
-
 ---
 title: Extended Essay
 tags:
@@ -23,11 +22,16 @@ tags:
 ### Add 10ml of 1 molar HCl
 #### The ratio is from [this](https://www.youtube.com/watch?v=_BPEuLcR4_I) video
 ### Note the time at the start of the hydrolysis reaction.
-### TODO Thyroxine addition
-### Add 25ml of ____ (seaweed) solution
+#
+### Add
+## Add 25ml of ____ 5% (seaweed) solution
+#### 5g of seaweed powder will be added to 100ml of water to create a 5% seaweed solution
 ### Add half the volume of 5% crushed seaweed solution.
-#### TODO How will you be getting the seaweed?
-#### TODO Genus + Species?
+#### DONE How will you be getting the seaweed?
+
+##### Lazada + Local store
+#### DONE Genus + Species?
+
 ##### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
 ### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
 #### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
@@ -72,6 +76,9 @@ tags:
 ### (5) Temperature at which the reaction is carried out
 #### Enzymes are temperature sensitive, which enhances its performance
 #### The reaction is conducted in a incubator at a temperature of 37ºC
-## STUFF TO DO
+#
+## **DISCUSSION**
+### Homeopathic doctors ask for supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
+# STUFF TO DO
 ### TODO The multiple experiment stuff
 ### TODO Hypothesis
