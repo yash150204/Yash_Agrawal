@@ -3,8 +3,9 @@ title: Extended Essay
 tags:
 ---
 ## **RQ: How do varying concentrations and volumes of thyroxine and iodine change the absorbance (spectrophotometer) and enthalpy as phosphoproteins are digested?**
+#
 ## Useful Links
-### [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
+## [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
 ### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][**Sample EE** - How do different NPK ratios in aqueous fertilisers affect growth of the onion, over a 5- week period, in a hydroponics set up?]]
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
@@ -12,8 +13,9 @@ tags:
 
 ### TODO Make Procedure suitable to your experiment
 ### TODO Experiment - Effect of thyroxine on the rate of digestion
+#
 ### TODO Experiment - The control experiment
-### Make a 100g\L protein mixture by dissolving casein (Sigma) in water
+## Make a 100g\L protein mixture by dissolving casein (Sigma) in water
 ### Make a 5g/L saturated **trypsin** solution 
 #### Why trypsin? From [this](https://www.jbc.org/content/49/2/343.full.pdf) research paper
 #### [[https://cdn.logseq.com/%2F240555e0-d70c-43d3-8acf-e4c746692cd92020_08_06_Screenshot%202020-08-06%20at%2010.33.34%20AM.png?Expires=4750281233&Signature=GzCtHflImWq7EmQNd4nQlWx4vUeXeKbSyV9o22zIqlkvGBcn3EUFD6IiMD9~QObgCgXBs12Zy~BlB3pkEk8W1z0eKdIcYfC85kX~d3ejokVG99zGvW6DZPw-FPMDJVdcmXnAT0SDWHmMJ6aAz84if5NuoBYi4WGZ57Ge-PZ3HJB9eZv4xRisguiTGyubl0J~uVHyNw0T09055sP3YcypgDfJCAuu1avvYrK44-Zk0PZamZeIf5vHR2Uw2h~FuFwf8KYbG49ieeMLRmZGp3sIQ5Xo89fOd9d0Jy75oUJ93nFCWLhNNFTn4WgsluSEX6RGsd7vCcTIXJg7skExmaNi6A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_08_06_Screenshot 2020-08-06 at 10.33.34 AM.png]]
