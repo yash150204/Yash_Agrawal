@@ -16,7 +16,7 @@ tags:
 #### As [[Robert T. Kiyosaki]] suggests, that we should ask questions that mentally challenge us, questions that actually put our brains on  "mental exercise" and stuff that puts your brain to work.
 #### As our friend [[Tim Ferris]] says in the [[Book - The 4-Hour Workweek]], we need to challenge the conventional, and not settle for the conventional.
 ### "Proper physical exercise increases your chances for health, and proper mental exercise increases your chances for wealth."
-### The ultimate #LifeAdvice #EVERGREEN
+### [[The 'rich' mentality]]
 #### One dad recommended, “Study hard so you can find a good company to work for.” The other recommended, “Study hard so you can find a good company to buy.”
 #### One dad said, “The reason I’m not rich is because I have you kids.” The other said, “The reason I must be rich is because I have you kids.”
 #### One encouraged talking about money and business at the dinner table, while the other forbade the subject of money to be discussed over a meal.
