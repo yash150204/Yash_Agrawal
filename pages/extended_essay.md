@@ -27,7 +27,9 @@ tags:
 ### Add 25ml of ____ (seaweed) solution
 ### Add half the volume of 5% crushed seaweed solution.
 #### TODO How will you be getting the seaweed?
-#### TODO Genus + Species?
+#### NOW Genus + Species?
+
+
 #### [[DONE]]
 ### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
 #### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
