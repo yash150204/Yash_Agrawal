@@ -6,7 +6,7 @@ tags:
 ## Useful Links
 ### [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
-### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][Sample EE - How do different Nitrogen-Phosphorus-Potassium (NPK) ratios (1:1:1, 2:1:1, 2:2:1 and water) in aqueous fertilisers affect growth (as measured through a mitotic index) of the onion (Allium cepa), over a 5- week period, in a hydroponics set up?]] 
+### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][**Sample EE** - How do different Nitrogen-Phosphorus-Potassium (NPK) ratios (1:1:1, 2:1:1, 2:2:1 and water) in aqueous fertilisers affect growth (as measured through a mitotic index) of the onion (Allium cepa), over a 5- week period, in a hydroponics set up?]]
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
 ### TODO Make Procedure suitable to your experiment
 ### 
