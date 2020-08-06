@@ -7,12 +7,15 @@ tags:
 ### [Proteolytic Enzymes = Protein Digestion by Pepsin (HINDI) Biochemistry By Solution Pharmacy](https://www.youtube.com/watch?v=_BPEuLcR4_I)
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
+### TODO Effect of thyroxine on the rate of digestion
 ### 1. Make a 10g\L protein mixture by dissolving casein (Sigma) in water
 ### 2. Make a saturated protease solution by adding 0.5 g of powder protease to 1 litre of water.
 ### 3. Spin the solution in a centrifuge to separate the undissolved powder. Keep the supernatant.
 ### 4. Mix equal volumes of protein solution and protease solution obtained in Step 1 and Step 2. Note the time at the start of the hydrolysis reaction.
-### 
+### TODO Thyroxine addition
 ### Add half the volume of 5% crushed seaweed solution.
+#### TODO How will you be getting the seaweed?
+#### TODO Genus + Species?
 ### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colorimetric method.
 #### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
 #### **Chemical process**
