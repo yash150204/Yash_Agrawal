@@ -9,7 +9,7 @@ tags:
 #### Password: 657554
 ### 2 me
 ## 2 meetings on [[Aug 4th, 2020]] before pitch -> Waxdale did not show up
-## Meeting on [[Aug 5th, 2020]] before pitch
+## Meeting on [[Aug 5th, 2020]] before pitch -> Waxdale did not show up yet again. We will be giving them a last chance to fucking show up, otherwise, I personally will send an email to them, telling them they should respect the time of people.
 ## 
 ---
 title: Crashboards International
