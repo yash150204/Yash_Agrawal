@@ -24,6 +24,7 @@ tags:
 #### The ratio is from [this](https://www.youtube.com/watch?v=_BPEuLcR4_I) video
 ### Note the time at the start of the hydrolysis reaction.
 ### TODO Thyroxine addition
+### Add 25ml of ____ (seaweed) solution
 ### Add half the volume of 5% crushed seaweed solution.
 #### TODO How will you be getting the seaweed?
 #### TODO Genus + Species?
