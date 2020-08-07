@@ -30,10 +30,10 @@ n
 ###### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
 ### **Investigating the effect of thyroxine** -> Add 50ml of thyroxine solution
 #### Thyroxine obtained from
-#### Make a 150mcg/L solution of thyroxine solution (based on image in research paper)
-#
-
+#### Make a 150mcg/L solution of thyroxine solution (based on image in research paper
 ### Note the time at the start of the hydrolysis reaction.
+### Let it be for 1hour
+ion.
 )
 E)
 ### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colourimetric method.
@@ -45,9 +45,11 @@ E)
 #### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
 #### **Wavelength**:​ 570nm
 #### Physical process​: 1ml of ninhydrin solution in 5ml solution of a
-#### Repeat the process for 15%, 25%, 35%, 50% seaweed solution
+### Repeat the process for 15%, 25%, 35%, 50% seaweed solution
 ## What are we measuring additionally?
 ### The enthalpy change, pH
+### Enthalpy
+####
 ## Discussion
 ### The potential effects of pH or temperature change
  solution
