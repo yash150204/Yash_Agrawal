@@ -24,6 +24,7 @@ tags:
 ## [[Moira]]
 ## [[Luke]]
 ## [[Aunt Lydia]]
+# This story is in comparison to [[Firdaus]] and [[WAPZ]] - Women At Point Zero (WAPZ)
 # Location: [[Gilead]]
 # **Motifs**
 # 1. Rape and sexual violence
