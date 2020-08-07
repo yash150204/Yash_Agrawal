@@ -4,8 +4,8 @@ tags:
 ---
 
 ## And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.And Jacob’s anger was kindled against Rachel; and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb? And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her. — *Genesis 30:1–3*
-## Theocratic - The government of God.
-### Theo (Latin) - God. Cracy (Latin) - Democracy
+### Theocratic - The government of God.
+#### Theo (Latin) - God. Cracy (Latin) - Democracy
 ## Genesis explores in theocratic details. The concept of Genesis is the inception of creating the progeny. The woman is similar to a vessel (metaphoric representation of a womb), used for developing a child, that will carry the humanity forward. Thus, if a woman is infertile, then in a dystopic, theocratic society, she is adrift and without purpose.
 ### What can such a woman do?
 ### Thus, if the woman is infertile, society gives her a mandate of getting a fertile woman and presenting her as a "religious" offering to the husband. The husband is sanctioned to have intercourse with the said offering and have children.
@@ -25,4 +25,4 @@ tags:
 ## The timeline of the two novels/novela's
 ### Memory is significantly immportant. In the case of Offred, memory is important because it takes her back to the life where she was normal, rational and an optimistic individual. She was what she wanted to be, but after being kidnapped and being pit up as a handmaid in Gilead, what has eroded is her individuality and her aspiration to be in Gilead. From a person she almost becomes a non-person (down to one biological entity). Thus memory here is crucial and maintains her sanity. Memory for Offred is something that she can pleasantly look back into, however the narrative perspective is not set in the past.
 ### In the case of WAPZ, the entire story is narrated as a flashback. The analeptic pattern is stronger, because the prisoner keeps looking into her childhood from a prison cell. It is the, retrospective vision. The voice is that of an adult trying to come to terms with what had happened to her as a child as she was growing up. The curious growing up of her mother, the oppressive father, and the sexually abusive uncle and a somewhat caring teacher. In this case, memory is much more stronger as a narrative tool/device in WAPZ.
-## 
+##
