@@ -1,8 +1,5 @@
-
----
-title: 🌲 Trees of Knowledge
-tags:
----
+Medicine
+### [[multimorbidity]]
 ## Life
 ## Money
 ## Business

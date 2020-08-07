@@ -13,6 +13,7 @@ tags:
 #### Illness is something that needs to be managed such as feelings of pain, discomfort, distress, weakness, fatigue, etc. Disease is something that needs to be cured. Obviously, these two things are not mutually exclusive, and they often occur together.
 ## "Loneliness and social isolation are more common with increasing age due to factors including reduced mobility, impaired speech or hearing, cognitive decline, loss of social networks, fragmentation of families, greater ill health and limited financial resources"
 ### The scientific difference between social isolation and loneliness
+### TODO How is social isolation and loneliness
 #### "Loneliness is defined as the **subjective** experience of feeling alone"
 #### "Social isolation ... is defined as an objective measure **quantifying** social contacts assed by ... network size"
 ### I felt that the "fragmentations of families part" can also be used for [[Hindi]] IOC
