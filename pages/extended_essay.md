@@ -9,11 +9,15 @@ tags:
 ### [Pepsin digestion of protein experiment](https://www.youtube.com/watch?v=OgMBQVt0mz4)
 ### [[https://thesciencecodex.files.wordpress.com/2017/01/ardon-pillay-003400-0082-final-biology-extended-essay.pdf][**Sample EE** - How do different NPK ratios in aqueous fertilisers affect growth of the onion, over a 5- week period, in a hydroponics set up?]]
 ## **Procedure Research** [LINK](https://user.eng.umd.edu/~nsw/ench485/lab3.htm)
-## CHECKLISST### TODO The multiple experiment stuff
+## CHECKLIST
+### TODO The multiple experiment stuff
 ### TODO Hypothesis
 ### DONE Check availability of casein. **NOT AVAILABLE**### TODO Make Procedure suitable to your experiment### TODO Experiment - Effect of thyroxine on the rate of digestion### TODO Experiment - The control experiment
 ### DONE Which enzyme?
+## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
+##
 ## Make a 100g\L protein mixture by dissolving albumin in water
+r
 ## Make a 50g/L saturated pepsin solution
 ### Why not trypsin and not pepsin?
 ### Pepsin is an enzyme that acts in the stomach, and is a stomach acid. Trypsin in a pancreatic enzyme that is secreted by the pancreases and is something that acts in the small intestine.
@@ -36,8 +40,10 @@ tags:
 ### (1) Enthalpy - Using a temperature probe every 4 minutes. The reason is that that will help us get a wide range of value (15 values) and can aid in noticing minor fluctuations in the temperature.
 ### (2) pH
 #### How thyroxine effects pH?
-#### Why does thyroxine effect pH?
+#### Why does thyroxine effect
 ### For both things, a polynomial regression model can be plotted.
+### Discussion -> The potential effects of pH or temperature change
+ted.
 ## Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colourimetric method.
 ### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
 ### **Chemical process**
@@ -47,11 +53,8 @@ tags:
 ### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
 ### **Wavelength**:​ 570nm
 ### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
-## Repeat the process for 15%, 25%, 35%, 50% seaweed solution
-tion
-ion
-## Discussion
-### The potential effects of pH or temperature change
+## Repeat the process for 15%, 25%, 35%, 50% seaweed solu
+rature change
  solution
 tion
 
