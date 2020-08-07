@@ -13,10 +13,9 @@ tags:
 ### TODO Make Procedure suitable to your experiment
 ### TODO Experiment - Effect of thyroxine on the rate of digestion
 ### TODO Experiment - The control experiment
-
-### Make a 100g\L protein mixture by dissolving albumin in water
 ### DONE Which enzyme?
-### Make a 5g/L saturated pepsin solution
+### Make a 100g\L protein mixture by dissolving albumin in water
+### Make a 50g/L saturated pepsin solution
 #### Why not trypsin and not pepsin?
 #### Pepsin is an enzyme that acts in the stomach, and is a stomach acid. Trypsin in a pancreatic enzyme that is secreted by the pancreases and is something that acts in the small intestine.
 ### Mix 50ml of albumin solution and 50ml of pepsin solution
@@ -29,6 +28,11 @@ n
 ###### Lazada + Local store
 ##### DONE Genus + Species?
 ###### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
+### **Investigating the effect of thyroxine** -> Add 50ml of thyroxine solution
+#### Thyroxine obtained from
+#### Make a 150mcg/L solution of thyroxine solution (based on image in research paper)
+#
+
 ### Note the time at the start of the hydrolysis reaction.
 )
 E)
@@ -40,8 +44,13 @@ E)
 ###### 3. alpha-keto acid + NH3 -> aldehyde + CO2
 #### Suggested sampling time interval: ​10 minutes for at least one hour. Colour change: from yellow (colour of ninhydrin) to purple
 #### **Wavelength**:​ 570nm
-#### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
+#### Physical process​: 1ml of ninhydrin solution in 5ml solution of a
 #### Repeat the process for 15%, 25%, 35%, 50% seaweed solution
+## What are we measuring additionally?
+### The enthalpy change, pH
+## Discussion
+### The potential effects of pH or temperature change
+ solution
 tion
 
 ## Apparatus and Chemicals
