@@ -13,13 +13,14 @@ tags:
 ## CHECKLIST
 ### TODO The multiple experiment stuff
 ### TODO Hypothesis
-### DONE Check availability of casein. **NOT AVAILABLE**### TODO Make Procedure suitable to your experiment### TODO Experiment - Effect of thyroxine on the rate of digestion### TODO Experiment - The control experiment
-### DONE Which enzyme
+### DONE Check availability of casein. **NOT AVAILABLE**### TODO Make Procedure suitable to your experiment### TODO Experiment - Effect of thyroxine on the rate of digestion### TODO Experiment - The control experimen
+### DONE Which enzyme?
+### TODO Method to quantify lipid metabolism
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
-## PROTEIN
+## **PROTEIN**
 ### https://www.nature.com/articles/0801292.pdf
 ### The effect of thyroid hormones on protein metabolism is characterized by a profound stimulatory effect on the synthesis of numerous cytosolic and mitochondrial proteins as well as of secretory proteins such as albumin and hormones.
-## LIPID
+## **LIPID**
 ### https://www.sciencedirect.com/science/article/pii/0016648086900079
 #### T4-stimulated lipid mobilization was indicated by decreased total lipids, primarily as triacylglycerols, and increased lipolytic enzyme (triacylglycerol lipase) activity in the liver and dark muscle.
 ##### This can be something. I can take liver, maybe get it from somewhere, and then I can test on it? Why should this not work?
@@ -28,7 +29,7 @@ tags:
 #### Their most obvious and well-known action is the increase in basal energy expenditure obtained acting on protein, carbohydrate and lipid metabolism.
 #### No direct lipolytic effect has been found in vitro. The increased lipolytic rate produced by thyroid hormones in vivo might be rela- ted to the increased subcutaneous blood- ̄ow or to a modi®cation of the lipolytic action of catecholamines.
 ### The liver thing is something that I am drawn to, lol.
-## CARBOHYDRATE
+## **CARBOHYDRATE**
 .
 ct seaweed has
 uff
