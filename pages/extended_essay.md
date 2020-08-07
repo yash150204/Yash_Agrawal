@@ -17,6 +17,7 @@ tags:
 ### DONE Which enzyme?
 ### TODO Method to quantify lipid metabolism
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
+## [[TODO]]
 ## **PROTEIN**
 ### https://www.nature.com/articles/0801292.pdf
 ### The effect of thyroid hormones on protein metabolism is characterized by a profound stimulatory effect on the synthesis of numerous cytosolic and mitochondrial proteins as well as of secretory proteins such as albumin and hormones.
