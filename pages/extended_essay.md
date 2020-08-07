@@ -35,8 +35,11 @@ n
 ### Let it be for 1hour
 ### **_What are we measuring additionally?_**
 #### The enthalpy change, pH
-#### (1) Enthalpy - Using a temperature probe every 4 minutes. The reason is that that will help us get a wide range of value (15 values) and can aid in noticing minor fluctuations in the temperature.
-#### (2) pH - pH is measure using pH meter, every 4minutes. The reason being the same.
+##### (1) Enthalpy - Using a temperature probe every 4 minutes. The reason is that that will help us get a wide range of value (15 values) and can aid in noticing minor fluctuations in the temperature.
+##### (2) pH
+###### How thyroxine effects pH?
+###### Why does thyroxine effect pH?
+#### For both things, a polynomial regression model can be plotted.
 ion.
 )
 E)
