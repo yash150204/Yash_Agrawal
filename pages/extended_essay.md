@@ -13,8 +13,17 @@ tags:
 ### TODO The multiple experiment stuff
 ### TODO Hypothesis
 ### DONE Check availability of casein. **NOT AVAILABLE**### TODO Make Procedure suitable to your experiment### TODO Experiment - Effect of thyroxine on the rate of digestion### TODO Experiment - The control experiment
-### DONE Which enzyme?
+### DONE Which enzyme
 ## This procedure can be repeated for lipid metabolism and carbohydrate metabolism. I am not too sure about that though.
+##
+## lipid shit
+### https://www.sciencedirect.com/science/article/pii/0016648086900079
+#### T4-stimulated lipid mobilization was indicated by decreased total lipids, primarily as triacylglycerols, and increased lipolytic enzyme (triacylglycerol lipase) activity in the liver and dark muscle.
+##### This can be something. I can take liver, maybe get it from somewhere, and then I can test on it? Why should this not work?
+#### T4-stimulated lipid mobilisation from mesenteric fat was indicated by decreased total tissue mass and by increased lipase activity.
+### https://www.nature.com/articles/0801292.pdf
+###
+.
 ct seaweed has
 uff
 ### TODO Hypothesis
