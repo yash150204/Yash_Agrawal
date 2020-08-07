@@ -33,6 +33,10 @@ n
 #### Make a 150mcg/L solution of thyroxine solution (based on image in research paper
 ### Note the time at the start of the hydrolysis reaction.
 ### Let it be for 1hour
+### **_What are we measuring additionally?_**
+#### The enthalpy change, pH
+#### (1) Enthalpy - Using a temperature probe every 4 minutes. The reason is that that will help us get a wide range of value (15 values) and can aid in noticing minor fluctuations in the temperature.
+#### (2) pH - pH is measure using pH meter, every 4minutes. The reason being the same.
 ion.
 )
 E)
@@ -46,10 +50,6 @@ E)
 #### **Wavelength**:​ 570nm
 #### Physical process​: 1ml of ninhydrin solution in 5ml solution of a
 ### Repeat the process for 15%, 25%, 35%, 50% seaweed solution
-## What are we measuring additionally?
-### The enthalpy change, pH
-### Enthalpy
-####
 ## Discussion
 ### The potential effects of pH or temperature change
  solution
