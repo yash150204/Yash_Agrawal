@@ -1,4 +1,4 @@
-Medicine
+[[Medicine]]
 ### [[multimorbidity]]
 ## Life
 ## Money
